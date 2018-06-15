@@ -19,7 +19,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="<?=PUBLIC_URL?>js/vanillaCalendar.js"></script>
     <script type="text/javascript" src="<?=PUBLIC_URL?>js/viewer.js"></script>
-    
+
 	<!-- CSS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link href="html/css/vanillaCalendar.css" rel="stylesheet">
@@ -41,12 +41,12 @@
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav nav ml-auto">
-              <li><a href="#001">ಮುಖಪುಟ</a></li>
-              <li><a href="#002">ಸಂವತ್ಸರ ಮಾಲೆ</a></li>
-              <li><a href="books.html">ಪುಸ್ತಕಗಳು</a></li>
-              <li><a href="pravachana.html">ಪ್ರವಚನಗಳು</a></li>
-              <li><a href="gallery.html">ಗ್ಯಾಲರಿ</a></li>
-              <li><a href="#004">ಸಂಪರ್ಕಿಸಿ</a></li>
+              <li><a href="<?=BASE_URL?>#001">ಮುಖಪುಟ</a></li>
+              <li><a href="<?=BASE_URL?>#002">ಸಂವತ್ಸರ ಮಾಲೆ</a></li>
+              <li><a href="<?=BASE_URL?>Books">ಪುಸ್ತಕಗಳು</a></li>
+              <li><a href="<?=BASE_URL?>Pravachana">ಪ್ರವಚನಗಳು</a></li>
+              <li><a href="<?=BASE_URL?>Gallery">ಗ್ಯಾಲರಿ</a></li>
+              <li><a href="<?=BASE_URL?>#004">ಸಂಪರ್ಕಿಸಿ</a></li>
           </ul>
       </div>
   </div>

@@ -93,6 +93,7 @@ class View {
 		require_once 'application/views/header.php';
 		require_once 'application/views/flatPageContainer.php';
 		require_once 'application/views/footer.php';
+
     }
 
     public function printNavigation($navigation = array(), $ulClass = ' class="nav navbar-nav navbar-right"', $liClass = ' class="dropdown"') {

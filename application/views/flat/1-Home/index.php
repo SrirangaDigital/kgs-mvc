@@ -104,7 +104,7 @@
             <img src="<?=DATA_URL?>003c/cover.jpg" alt="" class="bookimg">
             <img src="<?=DATA_URL?>004/cover.jpg" alt="" class="bookimg">
             <img src="<?=DATA_URL?>005/cover.jpg" alt="" class="bookimg"><br/>
-            <a href="books.html" class="more">More...</a>
+            <a href="<?=BASE_URL?>Books" class="more">More...</a>
         </div>
     </div>
 </div>
