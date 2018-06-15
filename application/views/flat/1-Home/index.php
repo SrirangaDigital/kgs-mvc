@@ -129,7 +129,7 @@
 <script>
     window.addEventListener('load', function () {
       vanillaCalendar.init({
-        disablePastDays: true
+        disablePastDays: false,
     });
   })
 </script>
