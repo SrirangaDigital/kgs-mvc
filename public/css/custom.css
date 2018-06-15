@@ -14,6 +14,37 @@ font-family: "Nudi";
 color: #111;
 }  
 
+.banner {
+    background: url('../images/stock/sun.jpg') no-repeat center center;
+    /* background-attachment: fixed; */
+    display: table;
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    color: #FFF;
+}
+
+
+.bannaer-text{
+  margin-top: 190px;
+  text-shadow: 2px 2px #343a40;
+}
+
+
+.bannaer-text h1 {
+  font-size: 1.5em;
+}
+
+.bannaer-text h1 small{
+  font-size: 2.5em;
+}
+
+
+
+.firstDiv{
+  margin-top: 85px !important;
+}
+
 .main, .maale, .book, .contact{
 margin-bottom: 150px;
 margin-top: 150px;
