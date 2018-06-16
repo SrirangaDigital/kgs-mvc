@@ -1,6 +1,6 @@
 <div class="container main">
   <div class="row">
-    <div class="col-md-3 hide">
+    <div class="col-md-3">
       <a href="<?=DATA_URL?>001/index.pdf" target="_blank">
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>001/cover.jpg" alt="Card image cap">
@@ -200,7 +200,7 @@
         </div>
       </a>
     </div>
-    <div class="col-md-3 hide">
+    <div class="col-md-3">
       <a href="<?=DATA_URL?>008/index.pdf" target="_blank">
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>008/cover.jpg" alt="Card image cap">
@@ -220,7 +220,7 @@
         </div>
       </a>
     </div>
-    <div class="col-md-3 hide">
+    <div class="col-md-3">
       <a href="<?=DATA_URL?>009/index.pdf" target="_blank">
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>009/cover.jpg" alt="Card image cap">
@@ -230,7 +230,7 @@
         </div>
       </a>
     </div>
-    <div class="col-md-3 hide">
+    <div class="col-md-3">
       <a href="<?=DATA_URL?>010/index.pdf" target="_blank">
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>010/cover.jpg" alt="Card image cap">
@@ -250,7 +250,7 @@
         </div>
       </a>
     </div>
-    <div class="col-md-3 hide">
+    <div class="col-md-3">
       <a href="<?=DATA_URL?>012/index.pdf" target="_blank">
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>012/cover.jpg" alt="Card image cap">
@@ -360,7 +360,7 @@
         </div>
       </a>
     </div>
-    <div class="col-md-3 hide">
+    <div class="col-md-3">
       <a href="<?=DATA_URL?>023/index.pdf" target="_blank">
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>023/cover.jpg" alt="Card image cap">
@@ -390,7 +390,7 @@
         </div>
       </a>
     </div>
-    <div class="col-md-3 hide">
+    <div class="col-md-3">
       <a href="<?=DATA_URL?>026/index.pdf" target="_blank">
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>026/cover.jpg" alt="Card image cap">
@@ -440,7 +440,7 @@
         </div>
       </a>
     </div>
-    <div class="col-md-3 hide">
+    <div class="col-md-3">
       <a href="<?=DATA_URL?>031/index.pdf" target="_blank">
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>031/cover.jpg" alt="Card image cap">
@@ -450,7 +450,7 @@
         </div>
       </a>
     </div>
-    <div class="col-md-3 hide">
+    <div class="col-md-3">
       <a href="<?=DATA_URL?>032/index.pdf" target="_blank">
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>032/cover.jpg" alt="Card image cap">
@@ -1060,7 +1060,7 @@
         </div>
       </a>
     </div>
-    <div class="col-md-3 hide">
+    <div class="col-md-3">
       <a href="<?=DATA_URL?>093/index.pdf" target="_blank">
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>093/cover.jpg" alt="Card image cap">
@@ -1080,7 +1080,7 @@
         </div>
       </a>
     </div>
-    <div class="col-md-3 hide">
+    <div class="col-md-3">
       <a href="<?=DATA_URL?>095/index.pdf" target="_blank">
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>095/cover.jpg" alt="Card image cap">
