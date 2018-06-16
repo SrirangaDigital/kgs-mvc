@@ -19,6 +19,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="<?=PUBLIC_URL?>js/vanillaCalendar.js"></script>
     <script type="text/javascript" src="<?=PUBLIC_URL?>js/viewer.js"></script>
+    <script type="text/javascript" src="<?=PUBLIC_URL?>js/bootstrap-datepicker.min.js"></script>
 
 	<!-- CSS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -29,6 +30,8 @@
     <link rel="stylesheet" type="text/css" href="<?=PUBLIC_URL?>css/navbar.css">
     <link rel="stylesheet" type="text/css" href="<?=PUBLIC_URL?>css/vanillaCalendar.css">
     <link rel="stylesheet" type="text/css" href="<?=PUBLIC_URL?>css/viewer.css">
+    <link rel="stylesheet" type="text/css" href="<?=PUBLIC_URL?>css/bootstrap-datepicker3.min.css">
+    <script type="text/javascript">var data_url = "<?=DATA_URL?>";</script>
     
     <!-- Favicon
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
