@@ -55,7 +55,7 @@
             <button type="button" id="004" data-href="76" class="btn btn-primary btn-lg">ಗೀತಾ</button>
             <button type="button" id="002" data-href="50" class="btn btn-primary btn-lg">ಶಾಂಕರ</button>
             <button type="button" id="005" data-href="32" class="btn btn-primary btn-lg">ಸುಭಾಷಿತ</button>
-            <button type="button" id="003" data-href="57" class="btn btn-primary btn-lg">ವೇದಾಂತ</button>
+            <button type="button" id="003a" data-href="57" class="btn btn-primary btn-lg">ವೇದಾಂತ</button>
             <button type="button" id="092" data-href="34" class="btn btn-primary btn-lg">ಸುರೇಶ್ವರ</button>
         </div>
     </div>
