@@ -1,12 +1,45 @@
-<div class="container-fluid banner firstDiv " id="001">
+<div class="container-fluid banner firstDiv " id="home">
     <div class="row justify-content-center overlay">
         <div class="col-md-12 text-center bannaer-text">
           <h1>ವೇದಾಂತಚಕ್ರವರ್ತಿ, ಮಹಾಮಹೋಪಾಧ್ಯಾಯ<br /><small>ವಿದ್ವಾನ್ ಡಾ॥ ಕೆ. ಜಿ. ಸುಬ್ರಾಯಶರ್ಮಾ</small></h1>
       </div>
   </div>
 </div>
-<div class="container main">
+<div class="container-fluid main">
     <div class="row">
+        <div class="col-md-6 animated fadeInLeft">
+               <div class="row">
+                    <div class="col-md-6">
+                        <img src="<?=STOCK_IMAGE_URL?>parents.jpg" alt="" class="img-right">
+                    </div>
+                    <div class="col-md-6">
+                        <img src="<?=STOCK_IMAGE_URL?>guru.jpg" alt="" class="img-left">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 text-center mtext">
+                        <span>मातृ॑देवो॒ भव।</span><span>पितृ॑देवो॒ भव।</span><span>आचार्य॑देवो॒ भव।</span>
+                    </div>
+                </div>
+        </div>
+        <div class="col-md-6 animated fadeInRight">
+         <!--    <iframe width="560" height="315" src="https://www.youtube.com/embed/kMtnEAqIB1g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
+
+            <video autoplay loop id="myVideo">
+                <source src="<?=PUBLIC_URL?>videos/Guruji.mp4" type="video/mp4">
+            </video>
+            <!-- 
+
+
+            <video autoplay loop id="video-background" muted plays-inline>
+  <source src="https://www.youtube.com/embed/kMtnEAqIB1g" type="video/mp4">
+</video> -->
+        </div>
+    </div>
+</div>
+
+<div class="container main">
+<!--     <div class="row">
         <div class="col-md-6">
             <img src="<?=STOCK_IMAGE_URL?>parents.jpg" alt="" class="img-right">
         </div>
@@ -18,7 +51,7 @@
         <div class="col-md-12 text-center mtext">
             <span>मातृ॑देवो॒ भव।</span><span>पितृ॑देवो॒ भव।</span><span>आचार्य॑देवो॒ भव।</span>
         </div>
-    </div><br />
+    </div><br /> -->
     <div class="row flat-page">
         <div class="col-md-8"> <h2>ಪ್ರಶಸ್ತಿ - ಸನ್ಮಾನಗಳು</h3></div>
         <div class="col-md-4"></div>
@@ -39,7 +72,7 @@
         </div>
     </div>      
 </div>
-<div class="container maale" id="002">
+<div class="container maale" id="samvastra">
     <div class="row">
         <div class="col-md-12">
             <h1 class="text-center">ಸಂವತ್ಸರ ಮಾಲೆ</h1>
@@ -61,7 +94,7 @@
     </div>
 </div>
 
-<div class="container book" id="003">
+<div class="container book">
     <div class="row">
         <div class="col-md-12">
             <h1 class="text-center">ಪುಸ್ತಕಗಳು</h1>
@@ -79,7 +112,7 @@
         </div>
     </div>
 </div>
-<div class="container book" id="004">
+<div class="container book" id="contact">
     <div class="row">
         <div class="col-md-12">
             <h1 class="text-center">ಸಂಪರ್ಕಿಸಿ</h1>
