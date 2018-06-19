@@ -25,7 +25,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>003a/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">3. ವೇದಾಂತ ಸಂವತ್ಸರ</h5>
+            <h5 class="card-title">3a. ವೇದಾಂತ ಸಂವತ್ಸರ</h5>
           </div>
         </div>
       </a>
@@ -35,7 +35,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>003b/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">3. वेदान्तसंवत्सरः</h5>
+            <h5 class="card-title">3b. वेदान्तसंवत्सरः</h5>
           </div>
         </div>
       </a>
@@ -45,7 +45,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>003c/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">3. వేదాంత సంవత్సరము</h5>
+            <h5 class="card-title">3c. వేదాంత సంవత్సరము</h5>
           </div>
         </div>
       </a>
@@ -55,7 +55,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>003d/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">3. வேதாந்த ஸம்வத்ஸரம்</h5>
+            <h5 class="card-title">3d. வேதாந்த ஸம்வத்ஸரம்</h5>
           </div>
         </div>
       </a>
@@ -85,7 +85,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>006a/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">6. ಪ್ರಬೋಧ ಚಿಂತಾಮಣಿ</h5>
+            <h5 class="card-title">6a. ಪ್ರಬೋಧ ಚಿಂತಾಮಣಿ</h5>
           </div>
         </div>
       </a>
@@ -95,7 +95,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>006b/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">6. ప్రబోధ చింతామణి</h5>
+            <h5 class="card-title">6b. ప్రబోధ చింతామణి</h5>
           </div>
         </div>
       </a>
@@ -105,7 +105,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>006c/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">6. प्रबोधचिन्तामणिः</h5>
+            <h5 class="card-title">6c. प्रबोधचिन्तामणिः</h5>
           </div>
         </div>
       </a>
@@ -115,7 +115,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>006d/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">6. Prabhodha Chintāmaṇi</h5>
+            <h5 class="card-title">6d. Prabhodha Chintāmaṇi</h5>
           </div>
         </div>
       </a>
@@ -125,7 +125,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>006e/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">6. ପ୍ରବୋଧ ତିନ୍ତାମଣି</h5>
+            <h5 class="card-title">6e. ପ୍ରବୋଧ ତିନ୍ତାମଣି</h5>
           </div>
         </div>
       </a>
@@ -135,7 +135,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>006f/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">6. പ്രബോധ ചിന്താമണി</h5>
+            <h5 class="card-title">6f. പ്രബോധ ചിന്താമണി</h5>
           </div>
         </div>
       </a>
@@ -145,7 +145,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>006g/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">6. प्रबोध चिंतामणी</h5>
+            <h5 class="card-title">6g. प्रबोध चिंतामणी</h5>
           </div>
         </div>
       </a>
@@ -155,7 +155,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>006h/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">6. प्रबोध चिंतामणि</h5>
+            <h5 class="card-title">6h. प्रबोध चिंतामणि</h5>
           </div>
         </div>
       </a>
@@ -165,7 +165,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>006i/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">6. ಪ್ರಬೋಧ ಚಿಂತಾಮಣಿ (Tamil)</h5>
+            <h5 class="card-title">6i. ಪ್ರಬೋಧ ಚಿಂತಾಮಣಿ (Tamil)</h5>
           </div>
         </div>
       </a>
@@ -175,7 +175,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>006j/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">6. ಪ್ರಬೋಧ ಚಿಂತಾಮಣಿ (Urdu)</h5>
+            <h5 class="card-title">6j. ಪ್ರಬೋಧ ಚಿಂತಾಮಣಿ (Urdu)</h5>
           </div>
         </div>
       </a>
