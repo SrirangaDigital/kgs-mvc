@@ -28,6 +28,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="<?=PUBLIC_URL?>css/custom.css">
     <link rel="stylesheet" type="text/css" href="<?=PUBLIC_URL?>css/navbar.css">
+    <link rel="stylesheet" type="text/css" href="<?=PUBLIC_URL?>css/animate.css">
     <link rel="stylesheet" type="text/css" href="<?=PUBLIC_URL?>css/vanillaCalendar.css">
     <link rel="stylesheet" type="text/css" href="<?=PUBLIC_URL?>css/viewer.css">
     <link rel="stylesheet" type="text/css" href="<?=PUBLIC_URL?>css/bootstrap-datepicker3.min.css">
@@ -44,12 +45,12 @@
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav nav ml-auto">
-              <li><a href="<?=BASE_URL?>#001">ಮುಖಪುಟ</a></li>
-              <li><a href="<?=BASE_URL?>#002">ಸಂವತ್ಸರ ಮಾಲೆ</a></li>
+              <li><a href="<?=BASE_URL?>#home">ಮುಖಪುಟ</a></li>
+              <li><a href="<?=BASE_URL?>#samvastra">ಸಂವತ್ಸರ ಮಾಲೆ</a></li>
               <li><a href="<?=BASE_URL?>Books">ಪುಸ್ತಕಗಳು</a></li>
               <li><a href="<?=BASE_URL?>Pravachana">ಪ್ರವಚನಗಳು</a></li>
               <li><a href="<?=BASE_URL?>Gallery">ಗ್ಯಾಲರಿ</a></li>
-              <li><a href="<?=BASE_URL?>#004">ಸಂಪರ್ಕಿಸಿ</a></li>
+              <li><a href="<?=BASE_URL?>#contact">ಸಂಪರ್ಕಿಸಿ</a></li>
           </ul>
       </div>
   </div>
