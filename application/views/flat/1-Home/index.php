@@ -200,7 +200,6 @@
             todayHighlight: true,
             forceParse: false,
             autoclose: true,
-            defaultViewDate: { year: 2016, month: 00, day: 00 },
             maxViewMode: 1
         });
 
