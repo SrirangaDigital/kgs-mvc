@@ -27,7 +27,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="<?=PUBLIC_URL?>css/custom.css?v=1.0">
-    <link rel="stylesheet" type="text/css" href="<?=PUBLIC_URL?>css/navbar.css">
+    <link rel="stylesheet" type="text/css" href="<?=PUBLIC_URL?>css/navbar.css?v=1.0">
     <link rel="stylesheet" type="text/css" href="<?=PUBLIC_URL?>css/animate.css">
     <link rel="stylesheet" type="text/css" href="<?=PUBLIC_URL?>css/vanillaCalendar.css">
     <link rel="stylesheet" type="text/css" href="<?=PUBLIC_URL?>css/viewer.css">
