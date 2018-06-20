@@ -1,12 +1,12 @@
 @font-face {
-	font-family: 'Nudi';
-	src: url('NUDIUNI01K.ttf');
-	unicode-range: U+0C80-0CFF;
+  font-family: 'Nudi';
+  src: url('NUDIUNI01K.ttf');
+  unicode-range: U+0C80-0CFF;
 }
 @font-face {
-	font-family: 'Devanagari';
-	src: url('Sanskrit2003.ttf');
-	unicode-range: U+0900-097F;
+  font-family: 'Devanagari';
+  src: url('Sanskrit2003.ttf');
+  unicode-range: U+0900-097F;
 }
 
 body{
@@ -16,8 +16,8 @@ color: #111;
 .video-container{
     overflow:hidden;
     display:block;
-    height: 520px;
     text-align: center;
+    max-height: 520px;
 }
 video#bgvid { 
     width: 90%;
@@ -30,7 +30,6 @@ video#bgvid {
     /*background: url('../images/stock/sun.jpg') no-repeat center center;*/
     /* background-attachment: fixed; */
     display: table;
-    height: 500px;
     width: 100%;
     background-size: cover;
     color: #FFF;
@@ -59,12 +58,11 @@ video#bgvid {
 
 .main, .maale, .book, .contact{
 margin-bottom: 150px;
-margin-top: 150px;
 
 }
 
 .flat-page{
-	margin-top: 80px;
+  margin-top: 80px;
 }
 
 .main h1{
@@ -72,26 +70,26 @@ margin-top: 150px;
     font-size: 36px;
 }
 .main p{
-	font-size: 20px;
+  font-size: 20px;
     line-height: 36px;
         margin: 20px 0;
 }
 .main.author{
-	font-size: 25px;
-	text-align: center;
+  font-size: 25px;
+  text-align: center;
 }
 
 
 
 .mtext span{
-	text-align: center;
-	padding: 5px;
-	font-family: "Devanagari";
-	font-size: 30px;
+  text-align: center;
+  padding: 5px;
+  font-family: "Devanagari";
+  font-size: 30px;
 }
 
 .mtext{
-	padding-top: 20px;
+  padding-top: 20px;
 }
 
 
@@ -114,13 +112,13 @@ margin-top: 150px;
 }
 
 .img-left{
-	float: left;
-	width: 70%;
+  float: left;
+  width: 70%;
 }
 
 .img-right{
-	float: right;
-	width: 70%;
+  float: right;
+  width: 70%;
 }
 
 .maale h1{
@@ -131,11 +129,11 @@ margin-top: 150px;
     margin-bottom: 50px;
 }
 /*.btn{
-	margin-left: 20px;
+  margin-left: 20px;
 }
 */
 .btn-lg{
-	padding: 1.5em;
+  padding: 1.5em;
     font-size: 1.2em;
     line-height: 1.5;
     border-radius: .3rem;
@@ -147,18 +145,18 @@ margin-top: 150px;
 }
 
 .more{
-	float: right;
+  float: right;
 }
 .clear-paddings{
-	padding: 0;
+  padding: 0;
 
 }
 
 .bookimg{
-	margin: 0;
-	padding: 0;
-	width: 180px;
-	height: 250px;
+  margin: 0;
+  padding: 0;
+  width: 180px;
+  height: 250px;
 }
 
 .samvatsaraImg{
@@ -168,45 +166,45 @@ margin-top: 150px;
 }
 
 .card a{
-	display: inline-block;
-	 text-decoration: none;
-	  color: #222;
+  display: inline-block;
+   text-decoration: none;
+    color: #222;
 }
 
 .card{
-	padding: 20px;
-	margin-top: 10px;
-	margin-bottom: 10px;
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 .card a:link{
-	  text-decoration: none;
-	  color: #fff;
+    text-decoration: none;
+    color: #fff;
 }
 
 .card-body{
-	padding: 0px;
+  padding: 0px;
 
 }
 
  .card-title{
-	font-family:'Nudi';
-	font-size: 18px;
-	text-align: center;
-	margin-top: 20px;
-	margin-bottom: 0px;
+  font-family:'Nudi';
+  font-size: 18px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 0px;
 }
 
 .demo-picked {
-	font-size: 1.2rem;
-	text-align: center;
+  font-size: 1.2rem;
+  text-align: center;
 }
 
 .demo-picked span {
-	font-weight: bold;
+  font-weight: bold;
 }
 
 .hide{
-	display: none;
+  display: none;
 }
 
 
@@ -289,9 +287,12 @@ column-count: 2;
 }
 
 @media (min-width: 768px){
-.card {
-column-count: 5;
-}
+  .card {
+  column-count: 5;
+  }
+  .main{
+    margin-top: -150px;
+  }
 }
 
 #datepicker {

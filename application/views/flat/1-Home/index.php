@@ -12,7 +12,7 @@
       </div>
   </div> -->
 </div>
-<div class="container main" style="margin-top: -120px">
+<div class="container main">
     <div class="row flat-page">
         <div class="col-md-8 text-center"><h2>ಪ್ರಶಸ್ತಿ - ಸನ್ಮಾನಗಳು</h3></div>
         <div class="col-md-4"></div>
