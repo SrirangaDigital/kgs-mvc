@@ -20,10 +20,11 @@ color: #111;
     text-align: center;
 }
 video#bgvid { 
+    width: 90%;
     z-index: -100;
     margin: 0px 0 0 0;
-    background: url(../images/stock/sun.jpg) no-repeat;
-    background-size: cover; 
+    background: url(../images/stock/sunName.jpg) no-repeat;
+    background-size: contain; 
 }
 .banner {
     /*background: url('../images/stock/sun.jpg') no-repeat center center;*/
