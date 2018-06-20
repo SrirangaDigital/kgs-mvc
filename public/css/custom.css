@@ -149,6 +149,12 @@ margin-top: 150px;
 	height: 250px;
 }
 
+.samvatsaraImg{
+  margin: 0;
+  padding: 0;
+  height: 200px;
+}
+
 .card a{
 	display: inline-block;
 	 text-decoration: none;

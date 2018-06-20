@@ -8,7 +8,7 @@
 <div class="container-fluid main">
     <div class="row">
         <div class="col-md-6 animated fadeInLeft">
-           <div class="row">
+         <div class="row">
             <div class="col-md-6">
                 <img src="<?=STOCK_IMAGE_URL?>parents.jpg" alt="" class="img-right">
             </div>
@@ -23,9 +23,9 @@
         </div>
     </div>
     <div class="col-md-6 animated fadeInRight">
-     <!--    <iframe width="560" height="315" src="https://www.youtube.com/embed/kMtnEAqIB1g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
+       <!--    <iframe width="560" height="315" src="https://www.youtube.com/embed/kMtnEAqIB1g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
 
-     <video autoplay loop id="myVideo">
+       <video autoplay loop id="myVideo">
         <source src="<?=PUBLIC_URL?>videos/Guruji.mp4" type="video/mp4">
         </video>
             <!-- 
@@ -123,107 +123,114 @@
                 <a tabindex="1" class="honorableNote" data-toggle="popover" data-content="ಸಿಂಹಭೂಮಿ, ಬೆಂಗಳೂರು" data-original-title="೨೦೧೭ರ ಗೌರವಪ್ರಶಸ್ತಿಸನ್ಮಾನ" title="೨೦೧೭ - ಗೌರವಪ್ರಶಸ್ತಿಸನ್ಮಾನ">ಅದ್ವೈತವಾಚಸ್ಪತಿ</a>, 
                 <a tabindex="1" class="honorableNote" data-toggle="popover" data-content="ಶ್ರೀಶಂಕರ ಸೇವಾ ಸಂಘ ರಿ., ಹರಿಹರ-೫೭೭೬೦೧, ದಾವಣಗೆರೆ" data-original-title="೨೦೧೭ರ ಗೌರವಪ್ರಶಸ್ತಿಸನ್ಮಾನ" title="೨೦೧೭ - ಗೌರವಪ್ರಶಸ್ತಿಸನ್ಮಾನ">ವೇದಾಂತವಿದ್ಯಾಕೌಸ್ತುಭ</a>, 
                 <a tabindex="1" class="honorableNote" data-toggle="popover" data-content="ವಿಜಯವಾಣಿ, ನಂ.೧, ದಿನಪತ್ರಿಕೆ, ಸಂಸ್ಕೃತಿ, ಬೆಂಗಳೂರು" data-original-title="೨೦೧೭ರ ಗೌರವಪ್ರಶಸ್ತಿಸನ್ಮಾನ" title="೨೦೧೭ - ಗೌರವಪ್ರಶಸ್ತಿಸನ್ಮಾನ">ಸರ್ವಋತು ಪ್ರವಚನಕಾರ</a>, 
-            <p class="text-center">
-                <strong>ಸುವರ್ಣ ಕರ್ಣಾಟಕ  “ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ”—೨೦೦೫</strong>, ಮತ್ತು<br />
-                <strong>“ಸುವರ್ಣ ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿ” </strong>ಪುರಸ್ಕೃತ 
-                <strong>ವೇದಾಂತಚಕ್ರವರ್ತಿ, ಮಹಾಮಹೋಪಾಧ್ಯಾಯ<br/><span> ವೇ. ಬ್ರ. ಶ್ರೀ ವಿದ್ವಾನ್ <span class="author">ಡಾ॥ ಕೆ. ಜಿ. ಸುಬ್ರಾಯಶರ್ಮಾ,</span> ಎಂ. ಎ., ಡಿ.ಲಿಟ್.</span></strong><br/>
-                (ಶ್ರೀಶ್ರೀಸಚ್ಚಿದಾನಂದೇಂದ್ರಸರಸ್ವತೀಸ್ವಾಮಿಗಳ ಅಂತೇವಾಸಿ ಸಾಕ್ಷಾತ್‍ಶಿಷ್ಯರು‍ )
-            </p>
-        </div>
-        <div class="col-md-4">
-            <img src="<?=STOCK_IMAGE_URL?>kgs.png" alt="K G Subrayashrama" class="img-kgs">
-        </div>
-    </div>      
-</div>
-<div class="container maale" id="samvastra">
-    <div class="row">
-        <div class="col-md-12">
-            <h1 class="text-center">ಸಂವತ್ಸರ ಮಾಲೆ</h1>
-        </div>
+                <p class="text-center">
+                    <strong>ಸುವರ್ಣ ಕರ್ಣಾಟಕ  “ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ”—೨೦೦೫</strong>, ಮತ್ತು<br />
+                    <strong>“ಸುವರ್ಣ ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿ” </strong>ಪುರಸ್ಕೃತ 
+                    <strong>ವೇದಾಂತಚಕ್ರವರ್ತಿ, ಮಹಾಮಹೋಪಾಧ್ಯಾಯ<br/><span> ವೇ. ಬ್ರ. ಶ್ರೀ ವಿದ್ವಾನ್ <span class="author">ಡಾ॥ ಕೆ. ಜಿ. ಸುಬ್ರಾಯಶರ್ಮಾ,</span> ಎಂ. ಎ., ಡಿ.ಲಿಟ್.</span></strong><br/>
+                    (ಶ್ರೀಶ್ರೀಸಚ್ಚಿದಾನಂದೇಂದ್ರಸರಸ್ವತೀಸ್ವಾಮಿಗಳ ಅಂತೇವಾಸಿ ಸಾಕ್ಷಾತ್‍ಶಿಷ್ಯರು‍ )
+                </p>
+            </div>
+            <div class="col-md-4">
+                <img src="<?=STOCK_IMAGE_URL?>kgs.png" alt="K G Subrayashrama" class="img-kgs">
+            </div>
+        </div>      
     </div>
-    <div class="row justify-content-md-center samvatsara">
-        <div class="col-md-8">
-            <div class="row justify-content-center">
-                <div class="col-md-4">
-                    <input id="datepicker" type="text" class="form-control datePicker text-center" data-provide="datepicker" placeholder="ದಿನಾಂಕವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ" />
+    <div class="container-fluid maale" id="samvastra">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="text-center">ಸಂವತ್ಸರ ಮಾಲೆ</h1>
+            </div>
+        </div>
+        <div class="row justify-content-md-center samvatsara">
+            <div class="col-md-8">
+                <div class="row justify-content-center">
+                    <div class="col-md-4">
+                        <input id="datepicker" type="text" class="form-control datePicker text-center" data-provide="datepicker" placeholder="ದಿನಾಂಕವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ" />
+                    </div>
+                </div><br /><br />
+            </div>
+            <div class="col-md-10">
+                <div class="row justify-content-center">
+                    <img id="004" src="<?=DATA_URL?>004/cover.jpg" data-href="76" alt="ಗೀತಾ" class="samvatsaraImg">&nbsp;&nbsp;
+                    <img id="002" src="<?=DATA_URL?>002/cover.jpg" data-href="50" alt="ಶಾಂಕರ" class="samvatsaraImg">&nbsp;&nbsp;
+                    <img id="005" src="<?=DATA_URL?>005/cover.jpg" data-href="32" alt="ಸುಭಾಷಿತ" class="samvatsaraImg">&nbsp;&nbsp;
+                    <img id="003a" src="<?=DATA_URL?>003a/cover.jpg" data-href="57" alt="ವೇದಾಂತ" class="samvatsaraImg">&nbsp;&nbsp;
+                    <img id="003b" src="<?=DATA_URL?>003b/cover.jpg" data-href="71" alt="ವೇದಾಂತ" class="samvatsaraImg">&nbsp;&nbsp;
+                    <img id="003c" src="<?=DATA_URL?>003c/cover.jpg" data-href="45" alt="ವೇದಾಂತ" class="samvatsaraImg">&nbsp;&nbsp;
+                    <img id="003d" src="<?=DATA_URL?>003d/cover.jpg" data-href="47" alt="ವೇದಾಂತ" class="samvatsaraImg">&nbsp;&nbsp;
+                    <img id="092" src="<?=DATA_URL?>092/cover.jpg" data-href="34" alt="ಸುರೇಶ್ವರ" class="samvatsaraImg">&nbsp;&nbsp;
                 </div>
-            </div><br /><br />
-            <button type="button" id="004" data-href="76" class="btn btn-primary btn-lg">ಗೀತಾ</button>
-            <button type="button" id="002" data-href="50" class="btn btn-primary btn-lg">ಶಾಂಕರ</button>
-            <button type="button" id="005" data-href="32" class="btn btn-primary btn-lg">ಸುಭಾಷಿತ</button>
-            <button type="button" id="003a" data-href="57" class="btn btn-primary btn-lg">ವೇದಾಂತ</button>
-            <button type="button" id="092" data-href="34" class="btn btn-primary btn-lg">ಸುರೇಶ್ವರ</button>
+            </div>
         </div>
     </div>
-</div>
 
-<div class="container book">
-    <div class="row">
-        <div class="col-md-12">
-            <h1 class="text-center">ಪುಸ್ತಕಗಳು</h1>
+    <div class="container book">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="text-center">ಪುಸ್ತಕಗಳು</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 clear-paddings">
+                <img src="<?=DATA_URL?>002/cover.jpg" alt="" class="bookimg">
+                <img src="<?=DATA_URL?>003a/cover.jpg" alt="" class="bookimg">
+                <img src="<?=DATA_URL?>003b/cover.jpg" alt="" class="bookimg">
+                <img src="<?=DATA_URL?>003c/cover.jpg" alt="" class="bookimg">
+                <img src="<?=DATA_URL?>004/cover.jpg" alt="" class="bookimg">
+                <img src="<?=DATA_URL?>005/cover.jpg" alt="" class="bookimg"><br/>
+                <a href="<?=BASE_URL?>Books" class="more">More...</a>
+            </div>
         </div>
     </div>
-    <div class="row">
-        <div class="col-md-12 clear-paddings">
-            <img src="<?=DATA_URL?>002/cover.jpg" alt="" class="bookimg">
-            <img src="<?=DATA_URL?>003a/cover.jpg" alt="" class="bookimg">
-            <img src="<?=DATA_URL?>003b/cover.jpg" alt="" class="bookimg">
-            <img src="<?=DATA_URL?>003c/cover.jpg" alt="" class="bookimg">
-            <img src="<?=DATA_URL?>004/cover.jpg" alt="" class="bookimg">
-            <img src="<?=DATA_URL?>005/cover.jpg" alt="" class="bookimg"><br/>
-            <a href="<?=BASE_URL?>Books" class="more">More...</a>
+    <div class="container book" id="contact">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="text-center">ಸಂಪರ್ಕಿಸಿ</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h3>ಕೆ. ಜಿ. ಸುಬ್ರಾಯಶರ್ಮಾ</h3>
+                <p>
+                    ನ. ರಾ. ಕಾಲೋನಿ, ಬೆಂಗಳೂರು - 19<br />
+                    kgsshrama@gmail.com<br />
+                    080-2667 3927, 9886281622
+                </p>
+            </div>
         </div>
     </div>
-</div>
-<div class="container book" id="contact">
-    <div class="row">
-        <div class="col-md-12">
-            <h1 class="text-center">ಸಂಪರ್ಕಿಸಿ</h1>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-12 text-center">
-            <h3>ಕೆ. ಜಿ. ಸುಬ್ರಾಯಶರ್ಮಾ</h3>
-            <p>
-                ನ. ರಾ. ಕಾಲೋನಿ, ಬೆಂಗಳೂರು - 19<br />
-                kgsshrama@gmail.com<br />
-                080-2667 3927, 9886281622
-            </p>
-        </div>
-    </div>
-</div>
-<script type="text/javascript">
-    $(document).ready(function(){
+    <script type="text/javascript">
+        $(document).ready(function(){
 
-        $('.datePicker').datepicker({
-            format: "dd-MM",
-            todayHighlight: true,
-            forceParse: false,
-            autoclose: true,
-            maxViewMode: 1
+            $('.datePicker').datepicker({
+                format: "dd-MM",
+                todayHighlight: true,
+                forceParse: false,
+                autoclose: true,
+                maxViewMode: 1
+            });
+
+            $('.samvatsara .samvatsaraImg').on('click', function(e){
+
+                var offset = $(this).attr('data-href');
+                var id = $(this).attr('id');
+                var dateSelected = $('#datepicker').val()+'-2016';
+                var startDate = new Date('01-01-2016');
+                dateSelected = new Date(dateSelected);
+                var millisecondsPerDay = 1000 * 60 * 60 * 24;
+
+                var millisBetween = dateSelected.getTime() - startDate.getTime();
+                var days = (millisBetween / millisecondsPerDay);
+                var href = data_url + id + '/index.pdf#page=' + (parseInt(offset)+parseInt(days));
+                window.open(href, '_blank');
+            });
+
+            $(function () {
+                $('[data-toggle="popover"]').popover({
+                    trigger: 'focus',
+                    html: true,
+                    placement: 'bottom'            
+                })
+            });
         });
-
-        $('.samvatsara .btn').on('click', function(e){
-
-            var offset = $(this).attr('data-href');
-            var id = $(this).attr('id');
-            var dateSelected = $('#datepicker').val()+'-2016';
-            var startDate = new Date('01-01-2016');
-            dateSelected = new Date(dateSelected);
-            var millisecondsPerDay = 1000 * 60 * 60 * 24;
-
-            var millisBetween = dateSelected.getTime() - startDate.getTime();
-            var days = (millisBetween / millisecondsPerDay);
-            var href = data_url + id + '/index.pdf#page=' + (parseInt(offset)+parseInt(days));
-            window.open(href, '_blank');
-        });
-
-        $(function () {
-            $('[data-toggle="popover"]').popover({
-                trigger: 'focus',
-                html: true,
-                placement: 'bottom'            
-            })
-        });
-    });
-</script>
+    </script>
