@@ -134,12 +134,12 @@
         </div>
         <div class="row">
             <div class="col-md-12 clear-paddings">
-                <img src="<?=DATA_URL?>002/cover.jpg" alt="" class="bookimg">
-                <img src="<?=DATA_URL?>003a/cover.jpg" alt="" class="bookimg">
-                <img src="<?=DATA_URL?>003b/cover.jpg" alt="" class="bookimg">
-                <img src="<?=DATA_URL?>003c/cover.jpg" alt="" class="bookimg">
-                <img src="<?=DATA_URL?>004/cover.jpg" alt="" class="bookimg">
-                <img src="<?=DATA_URL?>005/cover.jpg" alt="" class="bookimg"><br/>
+                <img src="<?=DATA_URL?>010/cover.jpg" alt="" class="bookimg">
+                <img src="<?=DATA_URL?>011/cover.jpg" alt="" class="bookimg">
+                <img src="<?=DATA_URL?>012/cover.jpg" alt="" class="bookimg">
+                <img src="<?=DATA_URL?>013/cover.jpg" alt="" class="bookimg">
+                <img src="<?=DATA_URL?>014/cover.jpg" alt="" class="bookimg">
+                <img src="<?=DATA_URL?>015/cover.jpg" alt="" class="bookimg"><br/>
                 <a href="<?=BASE_URL?>Books" class="more">More...</a>
             </div>
         </div>
