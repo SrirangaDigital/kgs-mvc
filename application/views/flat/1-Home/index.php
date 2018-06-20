@@ -8,34 +8,34 @@
 <div class="container-fluid main">
     <div class="row">
         <div class="col-md-6 animated fadeInLeft">
-               <div class="row">
-                    <div class="col-md-6">
-                        <img src="<?=STOCK_IMAGE_URL?>parents.jpg" alt="" class="img-right">
-                    </div>
-                    <div class="col-md-6">
-                        <img src="<?=STOCK_IMAGE_URL?>guru.jpg" alt="" class="img-left">
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12 text-center mtext">
-                        <span>मातृ॑देवो॒ भव।</span><span>पितृ॑देवो॒ भव।</span><span>आचार्य॑देवो॒ भव।</span>
-                    </div>
-                </div>
+         <div class="row">
+            <div class="col-md-6">
+                <img src="<?=STOCK_IMAGE_URL?>parents.jpg" alt="" class="img-right">
+            </div>
+            <div class="col-md-6">
+                <img src="<?=STOCK_IMAGE_URL?>guru.jpg" alt="" class="img-left">
+            </div>
         </div>
-        <div class="col-md-6 animated fadeInRight">
-         <!--    <iframe width="560" height="315" src="https://www.youtube.com/embed/kMtnEAqIB1g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
+        <div class="row">
+            <div class="col-md-12 text-center mtext">
+                <span>मातृ॑देवो॒ भव।</span><span>पितृ॑देवो॒ भव।</span><span>आचार्य॑देवो॒ भव।</span>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6 animated fadeInRight">
+       <!--    <iframe width="560" height="315" src="https://www.youtube.com/embed/kMtnEAqIB1g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
 
-            <video autoplay loop id="myVideo">
-                <source src="<?=PUBLIC_URL?>videos/Guruji.mp4" type="video/mp4">
-            </video>
+       <video autoplay loop id="myVideo">
+        <source src="<?=PUBLIC_URL?>videos/Guruji.mp4" type="video/mp4">
+        </video>
             <!-- 
 
 
             <video autoplay loop id="video-background" muted plays-inline>
   <source src="https://www.youtube.com/embed/kMtnEAqIB1g" type="video/mp4">
-</video> -->
-        </div>
-    </div>
+  </video> -->
+</div>
+</div>
 </div>
 
 <div class="container main">
@@ -66,6 +66,7 @@
                 <strong>ವೇದಾಂತಚಕ್ರವರ್ತಿ, ಮಹಾಮಹೋಪಾಧ್ಯಾಯ<br/><span> ವೇ. ಬ್ರ. ಶ್ರೀ ವಿದ್ವಾನ್ <span class="author">ಡಾ॥ ಕೆ. ಜಿ. ಸುಬ್ರಾಯಶರ್ಮಾ,</span> ಎಂ. ಎ., ಡಿ.ಲಿಟ್.</span></strong><br/>
                 (ಶ್ರೀಶ್ರೀಸಚ್ಚಿದಾನಂದೇಂದ್ರಸರಸ್ವತೀಸ್ವಾಮಿಗಳ ಅಂತೇವಾಸಿ ಸಾಕ್ಷಾತ್‍ಶಿಷ್ಯರು‍ )
             </p>
+            <p><sup><a tabindex="1" class="honorableNote" data-toggle="popover" data-content="suresh"><i class="fas fa-info-circle"></i></a></sup></p>
         </div>
         <div class="col-md-4">
             <img src="<?=STOCK_IMAGE_URL?>kgs.png" alt="K G Subrayashrama" class="img-kgs">
@@ -142,7 +143,7 @@
         });
 
         $('.samvatsara .btn').on('click', function(e){
-            
+
             var offset = $(this).attr('data-href');
             var id = $(this).attr('id');
             var dateSelected = $('#datepicker').val()+'-2016';
@@ -154,6 +155,15 @@
             var days = (millisBetween / millisecondsPerDay);
             var href = data_url + id + '/index.pdf#page=' + (parseInt(offset)+parseInt(days));
             window.open(href, '_blank');
+        });
+
+        $(function () {
+            $('[data-toggle="popover"]').popover({
+
+                trigger: 'focus',
+                html: true,
+                placement: 'bottom'            
+            })
         });
     });
 </script>
