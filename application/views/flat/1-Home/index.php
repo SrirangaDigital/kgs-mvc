@@ -1,9 +1,9 @@
 <div class="container-fluid banner firstDiv " id="home">
     <div class="row video">
         <div class="col-md-12">
-            <div class="video-container">
+            <!-- <div class="video-container">
                 <video autoplay controls poster="bg_head.jpg" id="bgvid" src="<?=PUBLIC_URL?>videos/video-banner.mp4" type="video/mp4"></video>
-            </div>
+            </div> -->
         </div>
     </div>
     <!-- <div class="row justify-content-center overlay">
@@ -161,38 +161,3 @@
             </div>
         </div>
     </div>
-    <script type="text/javascript">
-        $(document).ready(function(){
-
-            $('.datePicker').datepicker({
-                format: "dd-MM",
-                todayHighlight: true,
-                forceParse: false,
-                autoclose: true,
-                maxViewMode: 1
-            });
-
-            $('.samvatsara .samvatsaraImg').on('click', function(e){
-
-                var offset = $(this).attr('data-href');
-                var id = $(this).attr('id');
-                var dateSelected = $('#datepicker').val()+'-2016';
-                var startDate = new Date('01-01-2016');
-                dateSelected = new Date(dateSelected);
-                var millisecondsPerDay = 1000 * 60 * 60 * 24;
-
-                var millisBetween = dateSelected.getTime() - startDate.getTime();
-                var days = (millisBetween / millisecondsPerDay);
-                var href = data_url + id + '/index.pdf#page=' + (parseInt(offset)+parseInt(days));
-                window.open(href, '_blank');
-            });
-
-            $(function () {
-                $('[data-toggle="popover"]').popover({
-                    trigger: 'focus',
-                    html: true,
-                    placement: 'bottom'            
-                })
-            });
-        });
-    </script>
