@@ -13,9 +13,20 @@ body{
 font-family: "Nudi";
 color: #111;
 }  
-
+.video-container{
+    overflow:hidden;
+    display:block;
+    height: 520px;
+    text-align: center;
+}
+video#bgvid { 
+    z-index: -100;
+    margin: 0px 0 0 0;
+    background: url(../images/stock/sun.jpg) no-repeat;
+    background-size: cover; 
+}
 .banner {
-    background: url('../images/stock/sun.jpg') no-repeat center center;
+    /*background: url('../images/stock/sun.jpg') no-repeat center center;*/
     /* background-attachment: fixed; */
     display: table;
     height: 500px;
@@ -296,4 +307,16 @@ column-count: 5;
 
 .honorableNote:HOVER{
   text-decoration: none;
+}
+
+.popover-header {
+  font-family: 'Nudi';
+  background-color: gold;
+  color: #111;
+  text-align: center;
+}
+.popover-body {
+  font-family: 'Nudi';
+  font-size: 1.2em;
+  background-color: #FFF8E1;
 }
