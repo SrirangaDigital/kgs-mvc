@@ -152,7 +152,7 @@
         </div>
         <div class="row">
             <div class="col-md-12 text-center">
-                <h3>ಕೆ. ಜಿ. ಸುಬ್ರಾಯಶರ್ಮಾ</h3>
+                <h3>ವಿದ್ವಾನ್ ಡಾ॥ ಕೆ. ಜಿ. ಸುಬ್ರಾಯಶರ್ಮಾ</h3>
                 <p>
                     #127, “Seeta-Preeti”, Balaji Nagar,<br />
                     K. R. Hospital Road, Uttarahalli Main Road,<br />
