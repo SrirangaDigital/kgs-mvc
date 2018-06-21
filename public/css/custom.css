@@ -17,7 +17,9 @@ color: #111;
     overflow:hidden;
     display:block;
     text-align: center;
-    max-height: 520px;
+    margin: 0 auto;
+    /*height: 90vh;*/
+    /*max-height: 520px;*/
 }
 video#bgvid { 
     width: 90%;
@@ -58,7 +60,7 @@ video#bgvid {
 
 .main, .maale, .book, .contact{
 margin-bottom: 150px;
-
+margin-top: 150px;
 }
 
 .flat-page{
@@ -291,7 +293,10 @@ column-count: 2;
   column-count: 5;
   }
   .main{
-    margin-top: -150px;
+    /*margin-top: -150px;*/
+  }
+  .video-container{
+    width: 60%;
   }
 }
 

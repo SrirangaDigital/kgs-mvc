@@ -2,7 +2,7 @@
     <div class="row video">
         <div class="col-md-12">
             <div class="video-container">
-                <video autoplay controls poster="bg_head.jpg" id="bgvid" src="<?=PUBLIC_URL?>videos/video-banner.mp4" type="video/mp4"></video>
+                <video autoplay controls poster="bg_head.jpg" id="bgvid" src="<?=PUBLIC_URL?>videos/Guruji.mp4" type="video/mp4"></video>
             </div>
         </div>
     </div>
@@ -154,9 +154,11 @@
             <div class="col-md-12 text-center">
                 <h3>ಕೆ. ಜಿ. ಸುಬ್ರಾಯಶರ್ಮಾ</h3>
                 <p>
-                    ನ. ರಾ. ಕಾಲೋನಿ, ಬೆಂಗಳೂರು - 19<br />
-                    kgsshrama@gmail.com<br />
-                    080-2667 3927, 9886281622
+                    #127, “Seeta-Preeti”, Balaji Nagar,<br />
+                    K. R. Hospital Road, Uttarahalli Main Road,<br />
+                    P. O. Subrahmanayapura, Bengaluru - 560 061<br />
+                    080-2639 6786, 98862 81622<br />
+                    kgssharma@gmail.com<br />
                 </p>
             </div>
         </div>

@@ -145,7 +145,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>006g/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">6g. प्रबोध चिंतामणी</h5>
+            <h5 class="card-title">6g. प्रबोध चिंतामणी (मराठी)</h5>
           </div>
         </div>
       </a>
@@ -155,7 +155,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>006h/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">6h. प्रबोध चिंतामणि</h5>
+            <h5 class="card-title">6h. प्रबोध चिंतामणि (हिन्दी)</h5>
           </div>
         </div>
       </a>
@@ -165,7 +165,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>006i/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">6i. ಪ್ರಬೋಧ ಚಿಂತಾಮಣಿ (Tamil)</h5>
+            <h5 class="card-title">6i. ப்ரபோத சிந்தாமணி (Tamil)</h5>
           </div>
         </div>
       </a>
@@ -175,7 +175,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>006j/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">6j. ಪ್ರಬೋಧ ಚಿಂತಾಮಣಿ (Urdu)</h5>
+            <h5 class="card-title">6j. پرابودھا چنتمنی (Urdu)</h5>
           </div>
         </div>
       </a>
@@ -185,7 +185,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>007/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">7. ಜ್ಞಾನಾಮೃತಬಿಂದು</h5>
+            <h5 class="card-title">7a. ಜ್ಞಾನಾಮೃತಬಿಂದು</h5>
           </div>
         </div>
       </a>
@@ -195,7 +195,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>007a/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">ज्ञानामृत बिन्दु</h5>
+            <h5 class="card-title">7b. ज्ञानामृत बिन्दु</h5>
           </div>
         </div>
       </a>
@@ -205,7 +205,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>008/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">8. ಗೀತೋಪದೇಶಾಮೃತ</h5>
+            <h5 class="card-title">8a. ಗೀತೋಪದೇಶಾಮೃತ</h5>
           </div>
         </div>
       </a>
@@ -215,7 +215,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>008a/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">गीतोपदेशामृत</h5>
+            <h5 class="card-title">8b. गीतोपदेशामृत</h5>
           </div>
         </div>
       </a>
@@ -345,7 +345,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>021/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">48 ಅಷ್ಟಕ ಸ್ತೋತ್ರಗಳು</h5>
+            <h5 class="card-title">21. 48 ಅಷ್ಟಕ ಸ್ತೋತ್ರಗಳು</h5>
           </div>
         </div>
       </a>
