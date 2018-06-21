@@ -2,7 +2,7 @@
     <div class="row video">
         <div class="col-md-12">
             <div class="video-container">
-                <video autoplay controls poster="bg_head.jpg" id="bgvid" src="<?=PUBLIC_URL?>videos/Guruji.mp4" type="video/mp4"></video>
+                <video autoplay controls id="bgvid" src="<?=PUBLIC_URL?>videos/Guruji.mp4" type="video/mp4"></video>
             </div>
         </div>
     </div>
