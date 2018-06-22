@@ -315,7 +315,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>018/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">18. 50 Reflection on Morals</h5>
+            <h5 class="card-title">18. 50 Reflections on Morals</h5>
           </div>
         </div>
       </a>
@@ -415,7 +415,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>028/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">28. ಶಂಕರಜಯಂತೀ</h5>
+            <h5 class="card-title">28. ಶಂಕರಜಯಂತಿ</h5>
           </div>
         </div>
       </a>
@@ -435,7 +435,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>030/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">30. ಸಂದೇಶಾಮೃತಂ</h5>
+            <h5 class="card-title">30. ಸಂದೇಶಾಮೃತ</h5>
           </div>
         </div>
       </a>
@@ -805,7 +805,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>067/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">67. ತಸ್ಮೈಶ್ರೀಗುರವೇ ನಮಃ</h5>
+            <h5 class="card-title">67. ತಸ್ಮೈ  ಶ್ರೀಗುರವೇ ನಮಃ</h5>
           </div>
         </div>
       </a>
@@ -935,7 +935,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>080/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">80. ಉಪಮಾ ಕಾಶಿದಾಸಸ್ಯ</h5>
+            <h5 class="card-title">80. ಉಪಮಾ ಕಾಳಿದಾಸಸ್ಯ</h5>
           </div>
         </div>
       </a>

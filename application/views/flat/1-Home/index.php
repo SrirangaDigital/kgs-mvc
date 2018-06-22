@@ -2,7 +2,7 @@
     <div class="row video">
         <div class="col-md-12">
             <div class="video-container">
-                <video autoplay controls id="bgvid" src="<?=PUBLIC_URL?>videos/Guruji.mp4" type="video/mp4"></video>
+                <video autoplay controls id="bgvid" src="<?=PUBLIC_URL?>videos/videobanner.mp4" type="video/mp4"></video>
             </div>
         </div>
     </div>
@@ -89,7 +89,7 @@
                     <strong>ಸುವರ್ಣ ಕರ್ಣಾಟಕ  “ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ”—೨೦೦೫</strong>, ಮತ್ತು<br />
                     <strong>“ಸುವರ್ಣ ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿ” </strong>ಪುರಸ್ಕೃತ 
                     <strong>ವೇದಾಂತಚಕ್ರವರ್ತಿ, ಮಹಾಮಹೋಪಾಧ್ಯಾಯ<br/><span> ವೇ. ಬ್ರ. ಶ್ರೀ ವಿದ್ವಾನ್ <span class="author">ಡಾ॥ ಕೆ. ಜಿ. ಸುಬ್ರಾಯಶರ್ಮಾ,</span> ಎಂ. ಎ., ಡಿ.ಲಿಟ್.</span></strong><br/>
-                    (ಶ್ರೀಶ್ರೀಸಚ್ಚಿದಾನಂದೇಂದ್ರಸರಸ್ವತೀಸ್ವಾಮಿಗಳ ಅಂತೇವಾಸಿ ಸಾಕ್ಷಾತ್‍ಶಿಷ್ಯರು‍ )
+                    (ಹೊಳೆನರಸೀಪುರದ ಶ್ರೀಶ್ರೀಸಚ್ಚಿದಾನಂದೇಂದ್ರಸರಸ್ವತೀಸ್ವಾಮಿಗಳ ಅಂತೇವಾಸಿ ಸಾಕ್ಷಾತ್‍ಶಿಷ್ಯರು‍ )
                 </p>
             </div>
             <div class="col-md-4">
@@ -159,6 +159,7 @@
                     P. O. Subrahmanayapura, Bengaluru - 560 061<br />
                     080-2639 6786, 98862 81622<br />
                     kgssharma@gmail.com<br />
+                    casmurthy@gmail.com
                 </p>
             </div>
         </div>

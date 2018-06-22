@@ -47,7 +47,7 @@
             <ul class="navbar-nav nav ml-auto">
               <li><a href="<?=BASE_URL?>#home">ಮುಖಪುಟ</a></li>
               <li><a href="<?=BASE_URL?>#samvastra">ಸಂವತ್ಸರ ಮಾಲೆ</a></li>
-              <li><a href="<?=BASE_URL?>Books">ಪುಸ್ತಕಗಳು</a></li>
+              <li><a href="<?=BASE_URL?>Books">ಆನಂದಗ್ರಂಥಮಾಲಾ</a></li>
               <li><a href="<?=BASE_URL?>Pravachana">ಪ್ರವಚನಗಳು</a></li>
               <li><a href="<?=BASE_URL?>Gallery">ಗ್ಯಾಲರಿ</a></li>
               <li><a href="<?=BASE_URL?>#contact">ಸಂಪರ್ಕಿಸಿ</a></li>
