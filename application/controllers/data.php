@@ -7,6 +7,14 @@ class data extends Controller {
 		parent::__construct();
 	}
 
+	public function counter() {
+
+		$this->model->db->createDB(DB_NAME, DB_SCHEMA);
+		$dbh = $this->model->db->connect(DB_NAME);
+		$this->model->db->dropTable(METADATA_TABLE, $dbh);
+		$this->model->db->createTable(METADATA_TABLE, $dbh, METADATA_TABLE_SCHEMA);
+	}
+
 	public function buildDBFromJson() {
 
 		$this->insertForeignKeys();

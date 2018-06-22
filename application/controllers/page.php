@@ -17,7 +17,6 @@ class page extends Controller {
 		$params = (func_get_args());
 		// Remove url query from params
 		unset($params[0]);
-
 		$path = 'flat/' . implode('/', $params);
 		$this->view($path);
 	}

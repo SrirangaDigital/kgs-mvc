@@ -5,6 +5,7 @@ class Model {
 	public function __construct() {
 
 		$this->db = new Database();
+		$this->incrementCounter();
 	}
 	
 	public function getPostData() {
@@ -241,6 +242,25 @@ class Model {
 		curl_close($curl);
 
 		return $result;
+	}
+
+	public function incrementCounter() {
+
+		if(isset($_SESSION['count']) && $_SESSION['count']) {
+
+			$incrementQuery = 'UPDATE ' . METADATA_TABLE . ' SET count = count + 1';
+			$dbh = $this->db->connect(DB_NAME);
+			$this->db->executeQuery($dbh, $incrementQuery);
+
+			// Get Count Value
+			$countQuery = 'SELECT count FROM ' . METADATA_TABLE;
+			$sth = $dbh->prepare($countQuery);
+			$sth->execute();
+			$result = $sth->fetch(PDO::FETCH_ASSOC);
+			$_SESSION['hits'] = $result['count'];
+
+			$_SESSION['count'] = false;
+		}
 	}
 }
 

@@ -1,11 +1,17 @@
     <!-- Footer -->
+    <div class="container">
+        <div class="row  justify-content-end">
+            <div class="visitorCount">
+                Visitors<br />
+                <strong><?=$_SESSION['hits'];?></strong>
+            </div>
+        </div>
+    </div>
     <div id="k-subfooter">
         <div class="container-fluid"><!-- container -->
             <div class="row"><!-- row -->
                 <div class="col-lg-12">
-                    <p class="copy-text text-center">
-						<small>&copy; 2018 ವಿದ್ವಾನ್ ಡಾ ॥ ಕೆ. ಜಿ. ಸುಬ್ರಾಯಶರ್ಮಾ, ಬೆಂಗಳೂರು. ಎಲ್ಲ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ.</small>
-                    </p>
+                    <p class="copy-text text-center"><small>&copy; 2018 ವಿದ್ವಾನ್ ಡಾ ॥ ಕೆ. ಜಿ. ಸುಬ್ರಾಯಶರ್ಮಾ, ಬೆಂಗಳೂರು. ಎಲ್ಲ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ.</small></p>
                 </div>
             </div><!-- row end -->
         </div><!-- container end -->
