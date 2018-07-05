@@ -3,6 +3,7 @@
     <div class="col-md-9">
 		<h2>ಪ್ರವಚನಗಳ ವೀಡಿಯೊಗಳು</h2><br />
 		<iframe width="800" height="520" src="https://www.youtube.com/embed/<?=$data['id']?>?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		<br /><h3 class="text-left"><?=$data['title']?></h3>
 	</div>
     <div class="col-md-3">
 		<h3>Related Videos</h3><br />

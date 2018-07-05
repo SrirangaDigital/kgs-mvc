@@ -7,9 +7,10 @@ class pravachana extends Controller {
 		parent::__construct();
 	}
 
-	public function videoPlayer($query = [], $id) {
+	public function videoPlayer($query = [], $id, $title) {
 	
 		$data['id'] = $id;
+		$data['title'] = $title;
 		$this->view('pravachana/videoPlayer', $data);
 	}
 
