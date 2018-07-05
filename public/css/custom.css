@@ -368,7 +368,7 @@ column-count: 2;
 .video {
   margin-bottom: 10px;
 }
-.video:HOVER{
+.video:HOVER, .videoSidebar div:HOVER {
   box-shadow: 1px 1px 10px #888888;
   transition: box-shadow 0.2s ease-in-out;
 }
@@ -390,18 +390,24 @@ column-count: 2;
   padding-left: 5px;
   background-color: rgba(128,128,128, 0.1);
 }
+.videoSidebar div {
+  /*border: 1px solid red;*/
+}
 .videoSidebar{
   max-height: 700px;
   overflow: scroll;
   overflow-x: hidden;
+  margin-left: 0px;
 }
 .videoSidebar img{
-  width: 250px;
+  margin: 10px 0px 10px 0px;
+  width: 180px;
 }
 .sideBarText{
   color: #333;
-  font-size: 18px !important;
+  font-size: 15px !important;
   line-height: 1.2em !important;
+  margin: 5px auto 5px auto !important;
 }
 .gallery i{
   color: #007bff;
