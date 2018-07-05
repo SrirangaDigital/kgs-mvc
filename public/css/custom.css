@@ -60,7 +60,7 @@ video#bgvid {
 
 .main, .maale, .book, .contact{
 margin-bottom: 150px;
-margin-top: 150px;
+margin-top: 125px;
 }
 
 .flat-page{
@@ -336,4 +336,73 @@ column-count: 2;
   padding: 0.3em;
   border: 1px solid #CCCCCC;
   color: #111;
+}
+.albumPhotos img{
+  width: 250px;
+  margin: 10px 0px 25px 0px ;
+}
+.clear-margins{
+  margin: 0px;
+}
+.gallery img{
+  width: 500px;
+  cursor: pointer;
+  border: 1px solid #DCDCDC;
+}
+.gallery a:HOVER{
+  text-decoration: none;
+}
+.gallery a img:HOVER{
+  box-shadow: 2px 3px 2px #888888;
+  transition: box-shadow 0.2s ease-in-out;
+}
+.gallery h3{
+  color: #333;
+  text-align: center;
+  margin-top: 10px;
+}
+.main h2, .main h3{
+  color: #333;
+  text-align: center;
+}
+.video {
+  margin-bottom: 10px;
+}
+.video:HOVER{
+  box-shadow: 1px 1px 10px #888888;
+  transition: box-shadow 0.2s ease-in-out;
+}
+.videoCovers img{
+  width: 255px;
+  margin: 10px 0px 0px 0px ;
+}
+.videoCovers a:HOVER, .videoSidebar a:HOVER{
+  text-decoration: none;
+}
+.pravachanaTitle{
+  color: #333;
+  white-space: nowrap; 
+  overflow: hidden;
+  text-overflow:ellipsis;
+  margin: 0px 0px 10px 0px !important;
+  font-size: 15px !important;
+  text-align: left;
+  padding-left: 5px;
+  background-color: rgba(128,128,128, 0.1);
+}
+.videoSidebar{
+  max-height: 700px;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+.videoSidebar img{
+  width: 250px;
+}
+.sideBarText{
+  color: #333;
+  font-size: 18px !important;
+  line-height: 1.2em !important;
+}
+.gallery i{
+  color: #007bff;
 }
