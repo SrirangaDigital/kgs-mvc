@@ -1,6 +1,6 @@
 <div class="container main">
   <h3>ಧ್ವನಿ ಮುದ್ರಿಕೆಗಳು</h3>
-  <marquee direction="left"><i class="fa fa-info-circle"></i>&nbsp;ಉಪನ್ಯಾಸಗಳನ್ನು ಕೇಳುವ ಅವಕಾಶ ಸದ್ಯದಲ್ಲೇ ಮಾಡಿಕೊಡಲಾಗುವುದು</marquee><br />
+  <marquee direction="left"><i class="fa fa-info-circle"></i>&nbsp;ಉಪನ್ಯಾಸಗಳನ್ನು ಕೇಳುವ ಅವಕಾಶ ಸದ್ಯದಲ್ಲೇ ಮಾಡಿಕೊಡಲಾಗುವುದು.</marquee><br />
   <div class="row">
     <div class="col-md-3">
       <div class="card cd-card">
