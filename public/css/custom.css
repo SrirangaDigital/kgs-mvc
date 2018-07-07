@@ -379,6 +379,10 @@ column-count: 2;
 .videoCovers a:HOVER, .videoSidebar a:HOVER{
   text-decoration: none;
 }
+.videoSidebar{
+  height: 100vh;
+  overflow: auto;
+}
 .pravachanaTitle{
   color: #333;
   white-space: nowrap; 
@@ -392,12 +396,6 @@ column-count: 2;
 }
 .videoSidebar div {
   /*border: 1px solid red;*/
-}
-.videoSidebar{
-  max-height: 700px;
-  overflow: scroll;
-  overflow-x: hidden;
-  margin-left: 0px;
 }
 .videoSidebar img{
   margin: 10px 0px 10px 0px;
