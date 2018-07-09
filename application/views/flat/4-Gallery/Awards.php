@@ -1,5 +1,5 @@
   <div class="container main">
-    <h2>ಪ್ರಶಸ್ತಿ ಪ್ರಧಾನ ಸಮಾರಂಭಗಳು</h2><br />
+    <h2>ಪ್ರಶಸ್ತಿ ಪ್ರದಾನ ಸಮಾರಂಭಗಳು</h2><br />
     <div class="row albumPhotos" id="imageview">
       <div class="col-md-3"><img data-original="<?=PUBLIC_URL?>images/gallery/main/001/0001.jpg" src="<?=PUBLIC_URL?>images/gallery/thumb/001/0001.jpg" alt="" /></div>
       <div class="col-md-3"><img data-original="<?=PUBLIC_URL?>images/gallery/main/001/0002.jpg" src="<?=PUBLIC_URL?>images/gallery/thumb/001/0002.jpg" alt="" /></div>
