@@ -2,7 +2,7 @@
     <div class="row video">
         <div class="col-md-12">
             <div class="video-container">
-                <video autoplay controls id="bgvid" src="<?=PUBLIC_URL?>videos/videobanner.mp4" type="video/mp4"></video>
+                <video autoplay controls id="bgvid" src="<?=PUBLIC_URL?>videos/video-banner-20180709.mp4" type="video/mp4"></video>
             </div>
         </div>
     </div>
@@ -154,7 +154,7 @@
         <div class="col-md-12 text-center">
             <h3>ವಿದ್ವಾನ್ ಡಾ॥ ಕೆ. ಜಿ. ಸುಬ್ರಾಯಶರ್ಮಾ</h3>
             <p>
-                #127, “Seeta-Preeti”, Balaji Nagar,<br />
+                #127, “Seetha-Preethi”, Balaji Nagar,<br />
                 K. R. Hospital Road, Uttarahalli Main Road,<br />
                 P. O. Subrahmanayapura, Bengaluru - 560 061<br />
                 080-2639 6786, 98862 81622<br />
