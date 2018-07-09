@@ -410,3 +410,9 @@ column-count: 2;
 i{
   color: #007bff;
 }
+.big{
+	font-size: 1.25em !important;
+}
+.large{
+	font-size: 1.5em !important;
+}
