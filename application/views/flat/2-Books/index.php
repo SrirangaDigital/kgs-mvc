@@ -171,6 +171,16 @@
       </a>
     </div>
     <div class="col-md-3">
+      <a href="<?=DATA_URL?>006i/index.pdf" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>006i/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">6i. பிரபோத சிந்தாமணி (Tamil)</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
       <a href="<?=DATA_URL?>006j/index.pdf" target="_blank">
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>006j/cover.jpg" alt="Card image cap">
@@ -1086,6 +1096,26 @@
           <img class="card-img-top" src="<?=DATA_URL?>095/cover.jpg" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">95. ಬ್ರಹ್ಮಚರ್ಯವ್ರತಂ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=DATA_URL?>096/index.pdf" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>096/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">96. ಗೀತೆಯಲ್ಲಿ ಸಾಂಖ್ಯಾಯೋಗ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=DATA_URL?>097/index.pdf" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>097/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">97. ಶ್ರವಣದ ಮಹತ್ತ್ವ</h5>
           </div>
         </div>
       </a>
