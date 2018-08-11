@@ -1105,7 +1105,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>096/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">96. ಗೀತೆಯಲ್ಲಿ ಸಾಂಖ್ಯಾಯೋಗ</h5>
+            <h5 class="card-title">96. ಗೀತೆಯಲ್ಲಿ ಸಾಂಖ್ಯಯೋಗ</h5>
           </div>
         </div>
       </a>
