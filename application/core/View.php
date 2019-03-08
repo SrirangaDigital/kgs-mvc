@@ -96,6 +96,14 @@ class View {
 
     }
 
+	public function showFullScreenPage($data = array(), $path = '', $actualPath = '', $journal = '', $navigation = array(), $current = array()) {
+
+		$viewHelper = new viewHelper();
+		$pageTitle = $this->getPageTitle($viewHelper, $path);
+
+		require_once 'application/views/flatPageContainer.php';
+    }
+
     public function printNavigation($navigation = array(), $ulClass = ' class="nav navbar-nav navbar-right"', $liClass = ' class="dropdown"') {
 
         echo '<ul' . $ulClass . '>' . "\n";
