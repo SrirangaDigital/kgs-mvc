@@ -1125,7 +1125,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>098/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">098. ವಿದುರನೀತಿಸಾರ</h5>
+            <h5 class="card-title">98. ವಿದುರನೀತಿಸಾರ</h5>
           </div>
         </div>
       </a>
@@ -1135,7 +1135,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>099/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">099. ದಾನದ ಮಹಿಮೆ</h5>
+            <h5 class="card-title">99. ದಾನದ ಮಹಿಮೆ</h5>
           </div>
         </div>
       </a>
