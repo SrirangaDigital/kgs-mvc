@@ -121,6 +121,7 @@
                 <img id="003c" src="<?=DATA_URL?>003c/cover.jpg" data-href="45" alt="ವೇದಾಂತ" class="samvatsaraImg">&nbsp;&nbsp;
                 <img id="003d" src="<?=DATA_URL?>003d/cover.jpg" data-href="47" alt="ವೇದಾಂತ" class="samvatsaraImg">&nbsp;&nbsp;
                 <img id="092" src="<?=DATA_URL?>092/cover.jpg" data-href="34" alt="ಸುರೇಶ್ವರ" class="samvatsaraImg">&nbsp;&nbsp;
+                <img id="103" src="<?=DATA_URL?>103/cover.jpg" data-href="10" alt="ಗುರುಸ್ತಿನ ಸಂವತ್ಸರ" class="samvatsaraImg">&nbsp;&nbsp;
             </div>
         </div>
     </div>
