@@ -1120,5 +1120,85 @@
         </div>
       </a>
     </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/098" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>098/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">098. ವಿದುರನೀತಿಸಾರ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/099" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>099/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">099. ದಾನದ ಮಹಿಮೆ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/100" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>100/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">100. ಅದ್ಭುತ ಶಂಕರ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/101" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>101/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">101. ಸೂರ್ಯೋಪಾಸನಂ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/102" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>102/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">102. ಕೃಷ್ಣಾಂ ವಂದೇ ಜಗದ್ಗುರಂ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/103" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>103/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">103. ಗುರುಸ್ತಿನ ಸಂವತ್ಸರ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/104" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>104/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">104. ಮಾಸೋತ್ಸವಗಳು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/105" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>105/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">105. ವೈರಾಗ್ಯಭಾಗ್ಯ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
   </div>
 </div>
