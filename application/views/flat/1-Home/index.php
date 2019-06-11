@@ -113,15 +113,17 @@
         </div>
         <div class="col-md-10">
             <div class="row justify-content-center">
-                <img id="004" src="<?=DATA_URL?>004/cover.jpg" data-href="76" alt="ಗೀತಾ" class="samvatsaraImg">&nbsp;&nbsp;
-                <img id="002" src="<?=DATA_URL?>002/cover.jpg" data-href="50" alt="ಶಾಂಕರ" class="samvatsaraImg">&nbsp;&nbsp;
-                <img id="005" src="<?=DATA_URL?>005/cover.jpg" data-href="32" alt="ಸುಭಾಷಿತ" class="samvatsaraImg">&nbsp;&nbsp;
-                <img id="003a" src="<?=DATA_URL?>003a/cover.jpg" data-href="57" alt="ವೇದಾಂತ" class="samvatsaraImg">&nbsp;&nbsp;
-                <img id="003b" src="<?=DATA_URL?>003b/cover.jpg" data-href="71" alt="ವೇದಾಂತ" class="samvatsaraImg">&nbsp;&nbsp;
-                <img id="003c" src="<?=DATA_URL?>003c/cover.jpg" data-href="45" alt="ವೇದಾಂತ" class="samvatsaraImg">&nbsp;&nbsp;
-                <img id="003d" src="<?=DATA_URL?>003d/cover.jpg" data-href="47" alt="ವೇದಾಂತ" class="samvatsaraImg">&nbsp;&nbsp;
-                <img id="092" src="<?=DATA_URL?>092/cover.jpg" data-href="34" alt="ಸುರೇಶ್ವರ" class="samvatsaraImg">&nbsp;&nbsp;
-                <img id="103" src="<?=DATA_URL?>103/cover.jpg" data-href="10" alt="ಗುರುಸ್ತಿನ ಸಂವತ್ಸರ" class="samvatsaraImg">&nbsp;&nbsp;
+                <img id="004" src="<?=DATA_URL?>004/cover.jpg" data-href="76" alt="ಗೀತಾ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
+                <img id="002" src="<?=DATA_URL?>002/cover.jpg" data-href="50" alt="ಶಾಂಕರ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
+                <img id="005" src="<?=DATA_URL?>005/cover.jpg" data-href="32" alt="ಸುಭಾಷಿತ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
+                <img id="003a" src="<?=DATA_URL?>003a/cover.jpg" data-href="57" alt="ವೇದಾಂತ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
+                <img id="003b" src="<?=DATA_URL?>003b/cover.jpg" data-href="71" alt="ವೇದಾಂತ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
+            </div>
+            <div class="row justify-content-center">
+                <img id="003c" src="<?=DATA_URL?>003c/cover.jpg" data-href="45" alt="ವೇದಾಂತ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
+                <img id="003d" src="<?=DATA_URL?>003d/cover.jpg" data-href="47" alt="ವೇದಾಂತ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
+                <img id="092" src="<?=DATA_URL?>092/cover.jpg" data-href="34" alt="ಸುರೇಶ್ವರ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
+                <img id="103" src="<?=DATA_URL?>103/cover.jpg" data-href="10" alt="ಗುರುಸ್ತಿನ ಸಂವತ್ಸರ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
             </div>
         </div>
     </div>
