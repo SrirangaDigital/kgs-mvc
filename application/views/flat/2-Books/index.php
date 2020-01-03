@@ -575,7 +575,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>043/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">43. ಔಪನಿಷದ ಪುರುಷ</h5>
+            <h5 class="card-title">43. ಔಪನಿಷದಪುರುಷ</h5>
           </div>
         </div>
       </a>
@@ -615,7 +615,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>047/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">47. ವೇದಾಂತದಲ್ಲಿನ ಪದಗಳೂ ಅರ್ಥಗಳೂ</h5>
+            <h5 class="card-title">47. ವೇದಾಂತದಲ್ಲಿನ ಕೆಲವು ಪದಗಳೂ ಅರ್ಥಗಳೂ</h5>
           </div>
         </div>
       </a>
@@ -1005,7 +1005,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>086/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">86. ವೇದಾಂತಡಿಂಡಿಮಸಾರ</h5>
+            <h5 class="card-title">86. ಡಿಂಡಿಮಸಾರ</h5>
           </div>
         </div>
       </a>
@@ -1165,7 +1165,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>102/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">102. ಕೃಷ್ಣಾಂ ವಂದೇ ಜಗದ್ಗುರಂ</h5>
+            <h5 class="card-title">102. ಕೃಷ್ಣಂ ವಂದೇ ಜಗದ್ಗುರುಂ</h5>
           </div>
         </div>
       </a>
@@ -1175,7 +1175,7 @@
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>103/cover.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">103. ಗುರುಸ್ತಿನ ಸಂವತ್ಸರ</h5>
+            <h5 class="card-title">103. ಗುರುಸ್ತುತಿ ಸಂವತ್ಸರ</h5>
           </div>
         </div>
       </a>
