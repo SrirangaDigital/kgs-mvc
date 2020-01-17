@@ -1200,5 +1200,75 @@
         </div>
       </a>
     </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/106" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>106/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">106. ವೇದಾಂತಗಳೂ ವೇದಾಂಗಗಳೂ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/107" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>107/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">107. ದರ್ಶನಪರಿಚಯ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/108" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>108/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">108. ವಾಕ್‍ಸಂಪತ್ತು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/109" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>109/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">109. ವೇದಾಂತದಲ್ಲಿ ಧೀರರು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/111" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>111/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">111. ಗೀತಾ ಸುಭಾಷಿತಗಳು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/112" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>112/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">112. ಶಾರ್ದೂಲವಿಕ್ರೀಡಿತಂ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/113" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>113/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">113. ಸುವರ್ಣಕರ್ನಾಟಕದ ವಜ್ರವೇದಾಂತಿ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
   </div>
 </div>
