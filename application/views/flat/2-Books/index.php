@@ -1269,6 +1269,136 @@
           </div>
         </div>
       </a>
+    </div>    
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/114" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>114/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">114. ದಶಾವತಾರಗಳು</h5>
+          </div>
+        </div>
+      </a>
+    </div>    
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/115" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>115/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">115. ಶ್ರೀಶಂಕರರಿಂದ ಹೋಳಿಗೆ ಊಟ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/116" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>116/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">116. ವೀರಶಂಕರರ ಧೀರಸಂದೇಶಗಳು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/117" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>117/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">117. ‘ಸಾಹಸ್ರೀ’ ಸಾರ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/118" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>118/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">118. ಸ್ಥಿತಪ್ರಜ್ಞನಿವನು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/119" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>119/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">119. ಕೃಷ್ಣಂ ವಂದೇ ಜಗತ್ ಪ್ರಿಯಂ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/120" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>120/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">120. ಬ್ರಹ್ಮವು ನಮ್ಮೊಳಗೇ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/121" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>121/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">121. ಕೃಷ್ಣಕಂಡ ಕೃಷ್ಣ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/122" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>122/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">122. ತಪಃಶಕ್ತಿ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/123" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>123/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">123. ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ...</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/124" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>124/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">124. ಭಕ್ತಿಯಿಂದ ಮುಕ್ತಿ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/125" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>125/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">125. ರಾಜರ್ಷಿಯೂ ಮಹರ್ಷಿಯೂ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/126" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>126/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">126. ರಮಣಗೀತಾಮೃತಂ</h5>
+          </div>
+        </div>
+      </a>
     </div>
   </div>
 </div>
