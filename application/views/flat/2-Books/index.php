@@ -350,7 +350,17 @@
         </div>
       </a>
     </div>
-    <div class="col-md-3 hide">
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/021" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>021/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">21. ಅಷ್ಟಕ ಸ್ತೋತ್ರಗಳು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <!-- <div class="col-md-3 hide">
       <a href="<?=BASE_URL?>book/v/021" target="_blank">
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>021/cover.jpg" alt="Card image cap">
@@ -359,7 +369,7 @@
           </div>
         </div>
       </a>
-    </div>
+    </div> -->
     <div class="col-md-3">
       <a href="<?=BASE_URL?>book/v/022" target="_blank">
         <div class="card">
