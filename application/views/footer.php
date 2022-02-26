@@ -12,7 +12,7 @@
                         <small>&copy; 2018 ವಿದ್ವಾನ್ ಡಾ ॥ ಕೆ. ಜಿ. ಸುಬ್ರಾಯಶರ್ಮಾ, ಬೆಂಗಳೂರು. ಎಲ್ಲ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ.</small>
                         <span class="visitorCount">
                             Visitors: 
-                            <strong><?=$_SESSION['hits'];?></strong>
+                            <!-- <strong><?=$_SESSION['hits'];?></strong> -->
                         </span>
                     </p>
                 </div>
