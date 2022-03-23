@@ -5,7 +5,7 @@ class Model {
 	public function __construct() {
 
 		$this->db = new Database();
-		$this->incrementCounter();
+		// $this->incrementCounter();
 	}
 	
 	public function getPostData() {

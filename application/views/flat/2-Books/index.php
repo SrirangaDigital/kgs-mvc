@@ -350,7 +350,17 @@
         </div>
       </a>
     </div>
-    <div class="col-md-3 hide">
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/021" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>021/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">21. ಅಷ್ಟಕ ಸ್ತೋತ್ರಗಳು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <!-- <div class="col-md-3 hide">
       <a href="<?=BASE_URL?>book/v/021" target="_blank">
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>021/cover.jpg" alt="Card image cap">
@@ -359,7 +369,7 @@
           </div>
         </div>
       </a>
-    </div>
+    </div> -->
     <div class="col-md-3">
       <a href="<?=BASE_URL?>book/v/022" target="_blank">
         <div class="card">
@@ -1241,6 +1251,17 @@
       </a>
     </div>
     <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/110" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>110/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">110. ವೇದಾಂತ ಸುಭಾಷಿತಗಳು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    
+    <div class="col-md-3">
       <a href="<?=BASE_URL?>book/v/111" target="_blank">
         <div class="card">
           <img class="card-img-top" src="<?=DATA_URL?>111/cover.jpg" alt="Card image cap">
@@ -1400,5 +1421,109 @@
         </div>
       </a>
     </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/127" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>127/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">127. ಸತ್ತ್ವಶುದ್ಧಿ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/128" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>128/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">128. ಯತಿಗಳು ಭಾಗ್ಯವಂತರು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/129" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>129/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">129. ಸೂತ್ರಭಾಷ್ಯಸಾರ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/130" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>130/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">130. ಯಕ್ಷಪ್ರಶ್ನೆ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/131" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>131/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">131. ಶಂಕರಂ ಲೋಕಶಂಕರಂ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/132" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>132/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">132. ತತ್ತ್ವಮಸಿ -ಭಾಗ ೨</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/133" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>133/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">133. ಅವಧೂತಗೀತಾಸಾರ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/134" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>134/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">134. 'ಮೀಮಾಂಸಾ'ದ್ವಯಂ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+     <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/135" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>135/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">135. ವಾಕ್ಯಾನ್ವಯಾತ್</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/136" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>136/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">136. ಸೂತ್ರಭಾಷ್ಯ ಸಂವತ್ಸರ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    
+
   </div>
 </div>
