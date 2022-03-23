@@ -6,11 +6,6 @@ class Controller {
 		
 		session_start();
 		
-		if(!isset($_SESSION['count'])) {
-
-			$_SESSION['count'] = true;
-		}
-
 	}
 
 	public function loadModel($model) {

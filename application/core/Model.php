@@ -246,20 +246,39 @@ class Model {
 
 	public function incrementCounter() {
 
-		if(isset($_SESSION['count']) && $_SESSION['count']) {
+		if(!isset($_SESSION['hits'])) {
 
-			$incrementQuery = 'UPDATE ' . METADATA_TABLE . ' SET count = count + 1';
 			$dbh = $this->db->connect(DB_NAME);
-			$this->db->executeQuery($dbh, $incrementQuery);
+
 
 			// Get Count Value
 			$countQuery = 'SELECT count FROM ' . METADATA_TABLE;
 			$sth = $dbh->prepare($countQuery);
 			$sth->execute();
+			$result = $sth->fetch();
+			//var_dump($result); exit(0);
+			if($result)
+				$countVal = $result['count'];
+			else
+				$countVal = -1;
+
+
+			$incrementQuery = 'UPDATE ' . METADATA_TABLE . ' SET count = ' . ($countVal+1);
+			$sth = $dbh->prepare($incrementQuery);
+			$result = $sth->execute();
+
+			$countQuery = 'SELECT count FROM ' . METADATA_TABLE;
+			$sth = $dbh->prepare($countQuery);
+			$sth->execute();
 			$result = $sth->fetch(PDO::FETCH_ASSOC);
+
+
+			//$this->db->executeQuery($dbh, $incrementQuery);
+
+
 			$_SESSION['hits'] = $result['count'];
 
-			$_SESSION['count'] = false;
+			//$_SESSION['count'] = false;
 		}
 	}
 }

@@ -13,6 +13,7 @@ class data extends Controller {
 		$dbh = $this->model->db->connect(DB_NAME);
 		$this->model->db->dropTable(METADATA_TABLE, $dbh);
 		$this->model->db->createTable(METADATA_TABLE, $dbh, METADATA_TABLE_SCHEMA);
+		$this->model->db->insertData(METADATA_TABLE, $dbh, ['count'=>0]);
 	}
 
 	public function buildDBFromJson() {
