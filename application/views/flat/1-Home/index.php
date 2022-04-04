@@ -103,27 +103,72 @@
             <h1 class="text-center">ಸಂವತ್ಸರ ಮಾಲೆ</h1>
         </div>
     </div>
-    <div class="row justify-content-md-center samvatsara">
+    <div class="row justify-content-md-center samvatsara ">
         <div class="col-md-8">
             <div class="row justify-content-center">
                 <div class="col-md-4">
                     <input id="datepicker" type="text" class="form-control datePicker text-center" data-provide="datepicker" placeholder="ದಿನಾಂಕವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ" />
                 </div>
             </div><br /><br />
-        </div>
-        <div class="col-md-10">
+        </div><br />        
+        <div class="col-md-10 ">
             <div class="row justify-content-center">
-                <img id="004" src="<?=DATA_URL?>004/cover.jpg" data-href="76" alt="ಗೀತಾ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
+                <figure>
+                <picture>
+                <img id="004" src="<?=DATA_URL?>004/cover1.jpg" data-href="76" alt="ಗೀತಾ" class="m-3 samvatsaraImg">&nbsp;&nbsp; 
+                </picture>
+                <figcaption style="margin-left: 30px;font-size: 1.3rem;">ಗೀತಾ ಸಂವತ್ಸರ</figcaption>
+                </figure>
+                <figure>
+                <picture>
                 <img id="002" src="<?=DATA_URL?>002/cover.jpg" data-href="50" alt="ಶಾಂಕರ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
+                </picture>
+                <figcaption style="margin-left: 25px;font-size: 1.3rem;">ಶಾಂಕರ ಸಂವತ್ಸರ</figcaption>
+                </figure>
+                <figure>
+                <picture>
                 <img id="005" src="<?=DATA_URL?>005/cover.jpg" data-href="32" alt="ಸುಭಾಷಿತ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
+                </picture>
+                <figcaption style="margin-left: 18px;font-size: 1.3rem;">ಸುಭಾಷಿತ ಸಂವತ್ಸರ</figcaption>
+                </figure>
+                <figure>
+                <picture>
                 <img id="003a" src="<?=DATA_URL?>003a/cover.jpg" data-href="57" alt="ವೇದಾಂತ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
-                <img id="003b" src="<?=DATA_URL?>003b/cover.jpg" data-href="71" alt="ವೇದಾಂತ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
-            </div>
-            <div class="row justify-content-center">
+                </picture>
+                <figcaption style="margin-left: 18px;font-size: 1.3rem;">ವೇದಾಂತ ಸಂವತ್ಸರ</figcaption>
+                </figure>
+                <figure>
+                <picture>
+                <img id="003b" src="<?=DATA_URL?>003b/cover.jpg" data-href="71" alt="ವೇದಾಂತ" class="m-3 samvatsaraImg">&nbsp;&nbsp;&nbsp;&nbsp;
+                </picture>
+                 <figcaption style="margin-left: 25px;font-size: 1.3rem;">वेदान्तसंवत्सर:</figcaption>
+                </figure>
+                </div><br /><br />
+                <div class="row justify-content-center">
+                <figure>
+                <picture>
                 <img id="003c" src="<?=DATA_URL?>003c/cover.jpg" data-href="45" alt="ವೇದಾಂತ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
+                </picture>
+                <figcaption style="margin-left: 40px;font-size: 1.3rem;">వేదాంత <br />సంవత్సరము</figcaption>
+                </figure>   
+                <figure>
+                <picture>
                 <img id="003d" src="<?=DATA_URL?>003d/cover.jpg" data-href="47" alt="ವೇದಾಂತ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
+                </picture>
+                <figcaption style="margin-left: 30px;font-size: 1.3rem;">வேதாந்த <br />சம்வத்சரம்</figcaption>
+                </figure>
+                <figure>
+                <picture>
                 <img id="092" src="<?=DATA_URL?>092/cover.jpg" data-href="34" alt="ಸುರೇಶ್ವರ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
+                </picture>
+                <figcaption style="margin-left: 20px;font-size: 1.3rem;">ಸುರೇಶ್ವರ ಸಂವತ್ಸರ</figcaption>
+                </figure>
+                <figure>
+                <picture>
                 <img id="103" src="<?=DATA_URL?>103/cover.jpg" data-href="11" alt="ಗುರುಸ್ತಿನ ಸಂವತ್ಸರ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
+                </picture>
+                <figcaption style="margin-left: 20px;font-size: 1.3rem;">ಗುರುಸ್ತುತಿ ಸಂವತ್ಸರ</figcaption>
+                </figure>
             </div>
         </div>
     </div>
