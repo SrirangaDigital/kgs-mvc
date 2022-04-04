@@ -149,13 +149,13 @@
                 <picture>
                 <img id="003c" src="<?=DATA_URL?>003c/cover.jpg" data-href="45" alt="ವೇದಾಂತ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
                 </picture>
-                <figcaption style="margin-left: 40px;font-size: 1.3rem;">వేదాంత <br />సంవత్సరము</figcaption>
+                <figcaption style="margin-left: 35px;font-size: 1.3rem;">&nbsp;&nbsp;&nbsp;వేదాంత <br />సంవత్సరము</figcaption>
                 </figure>   
                 <figure>
                 <picture>
                 <img id="003d" src="<?=DATA_URL?>003d/cover.jpg" data-href="47" alt="ವೇದಾಂತ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
                 </picture>
-                <figcaption style="margin-left: 30px;font-size: 1.3rem;">வேதாந்த <br />சம்வத்சரம்</figcaption>
+                <figcaption style="margin-left: 30px;font-size: 1.3rem;">&nbsp;வேதாந்த <br />சம்வத்சரம்</figcaption>
                 </figure>
                 <figure>
                 <picture>
