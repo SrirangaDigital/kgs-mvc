@@ -115,7 +115,7 @@
             <div class="row justify-content-center">
                 <figure>
                 <picture>
-                <img id="004" src="<?=DATA_URL?>004/cover1.jpg" data-href="76" alt="ಗೀತಾ" class="m-3 samvatsaraImg">&nbsp;&nbsp; 
+                <img id="004" src="<?=DATA_URL?>004/cover.jpg" data-href="76" alt="ಗೀತಾ" class="m-3 samvatsaraImg">&nbsp;&nbsp; 
                 </picture>
                 <figcaption style="margin-left: 30px;font-size: 1.3rem;">ಗೀತಾ ಸಂವತ್ಸರ</figcaption>
                 </figure>
