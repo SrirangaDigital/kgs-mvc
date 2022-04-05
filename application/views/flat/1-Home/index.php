@@ -114,60 +114,60 @@
         <div class="col-md-10 ">
             <div class="row justify-content-center">
                 <figure>
+                <figcaption style="margin-left: 30px;font-size: 1.3rem;">ಗೀತಾ ಸಂವತ್ಸರ</figcaption>                    
                 <picture>
                 <img id="004" src="<?=DATA_URL?>004/cover.jpg" data-href="76" alt="ಗೀತಾ" class="m-3 samvatsaraImg">&nbsp;&nbsp; 
-                </picture>
-                <figcaption style="margin-left: 30px;font-size: 1.3rem;">ಗೀತಾ ಸಂವತ್ಸರ</figcaption>
+                </picture> 
                 </figure>
                 <figure>
+                <figcaption style="margin-left: 25px;font-size: 1.3rem;">ಶಾಂಕರ ಸಂವತ್ಸರ</figcaption>    
                 <picture>
                 <img id="002" src="<?=DATA_URL?>002/cover.jpg" data-href="50" alt="ಶಾಂಕರ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
-                </picture>
-                <figcaption style="margin-left: 25px;font-size: 1.3rem;">ಶಾಂಕರ ಸಂವತ್ಸರ</figcaption>
+                </picture>                
                 </figure>
                 <figure>
+                    <figcaption style="margin-left: 18px;font-size: 1.3rem;">ಸುಭಾಷಿತ ಸಂವತ್ಸರ</figcaption>
                 <picture>
                 <img id="005" src="<?=DATA_URL?>005/cover.jpg" data-href="32" alt="ಸುಭಾಷಿತ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
                 </picture>
-                <figcaption style="margin-left: 18px;font-size: 1.3rem;">ಸುಭಾಷಿತ ಸಂವತ್ಸರ</figcaption>
                 </figure>
                 <figure>
+                <figcaption style="margin-left: 18px;font-size: 1.3rem;">ವೇದಾಂತ ಸಂವತ್ಸರ</figcaption>                    
                 <picture>
                 <img id="003a" src="<?=DATA_URL?>003a/cover.jpg" data-href="57" alt="ವೇದಾಂತ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
                 </picture>
-                <figcaption style="margin-left: 18px;font-size: 1.3rem;">ವೇದಾಂತ ಸಂವತ್ಸರ</figcaption>
                 </figure>
                 <figure>
+                <figcaption style="margin-left: 25px;font-size: 1.3rem;">वेदान्तसंवत्सर:</figcaption>    
                 <picture>
                 <img id="003b" src="<?=DATA_URL?>003b/cover.jpg" data-href="71" alt="ವೇದಾಂತ" class="m-3 samvatsaraImg">&nbsp;&nbsp;&nbsp;&nbsp;
-                </picture>
-                 <figcaption style="margin-left: 25px;font-size: 1.3rem;">वेदान्तसंवत्सर:</figcaption>
+                </picture>                 
                 </figure>
                 </div><br /><br />
                 <div class="row justify-content-center">
                 <figure>
+                <figcaption style="margin-left: 35px;font-size: 1.3rem;">&nbsp;&nbsp;&nbsp;వేదాంత <br />సంవత్సరము</figcaption>    
                 <picture>
                 <img id="003c" src="<?=DATA_URL?>003c/cover.jpg" data-href="45" alt="ವೇದಾಂತ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
-                </picture>
-                <figcaption style="margin-left: 35px;font-size: 1.3rem;">&nbsp;&nbsp;&nbsp;వేదాంత <br />సంవత్సరము</figcaption>
+                </picture>                
                 </figure>   
                 <figure>
+                <figcaption style="margin-left: 30px;font-size: 1.3rem;">&nbsp;வேதாந்த <br />சம்வத்சரம்</figcaption>    
                 <picture>
                 <img id="003d" src="<?=DATA_URL?>003d/cover.jpg" data-href="47" alt="ವೇದಾಂತ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
-                </picture>
-                <figcaption style="margin-left: 30px;font-size: 1.3rem;">&nbsp;வேதாந்த <br />சம்வத்சரம்</figcaption>
+                </picture>                
                 </figure>
                 <figure>
+                <figcaption style="margin-left: 20px;font-size: 1.3rem;margin-top: 30px;">ಸುರೇಶ್ವರ ಸಂವತ್ಸರ</figcaption>
                 <picture>
                 <img id="092" src="<?=DATA_URL?>092/cover.jpg" data-href="34" alt="ಸುರೇಶ್ವರ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
                 </picture>
-                <figcaption style="margin-left: 20px;font-size: 1.3rem;">ಸುರೇಶ್ವರ ಸಂವತ್ಸರ</figcaption>
                 </figure>
                 <figure>
+                <figcaption style="margin-left: 18px;font-size: 1.3rem;margin-top: 30px;">ಗುರುಸ್ತುತಿ ಸಂವತ್ಸರ</figcaption>    
                 <picture>
                 <img id="103" src="<?=DATA_URL?>103/cover.jpg" data-href="11" alt="ಗುರುಸ್ತಿನ ಸಂವತ್ಸರ" class="m-3 samvatsaraImg">&nbsp;&nbsp;
-                </picture>
-                <figcaption style="margin-left: 20px;font-size: 1.3rem;">ಗುರುಸ್ತುತಿ ಸಂವತ್ಸರ</figcaption>
+                </picture>                
                 </figure>
             </div>
         </div>
