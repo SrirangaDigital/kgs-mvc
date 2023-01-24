@@ -1522,6 +1522,130 @@
         </div>
       </a>
     </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/137" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>137/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">137. ಗೀತೆಯಲ್ಲಿ ಉಪಮಾನಗಳು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/138" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>138/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">138. ರಮಣರ ರಾಮಬಾಣ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/139" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>139/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">139. ಶಾಂಕರ ಸುಭಾಷಿತಗಳು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/140" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>140/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">140. ಬೃಹದಾರಣ್ಯಕ ಸಾರ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/141" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>141/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">141. ಛಾಂದೋಗ್ಯ ತಾತ್ಪರ್ಯ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/142" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>142/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">142. ಶ್ರೀಕೃಷ್ಣಜಯಂತಿ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/143" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>143/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">143. ಗುರುಗೀತಾಸಾರ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/144" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>144/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">144. ಮುಂಡಕೋಪನಿಷತ್</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/145" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>145/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">145. ಸ್ರಗ್ಧರಾವೃತ್ತಸಂಗ್ರಹಃ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/146" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>146/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">146. ವೇದಾಂತಕೃತಿರತ್ನಗಳ ಪಟ್ಟಿ, ಮತ್ತು ಗೌರವಪ್ರಶಸ್ತಿ ಸನ್ಮಾನ ಮಾಲೆಗಳು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+     <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/147" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>147/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">147. 75 ರ “ಅಮೃತ ವೇದಾಂತಿ”</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/148" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>148/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">148. ಅಷ್ಟಾದಶ ವಿದ್ಯೆಗಳು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
 
     
 
