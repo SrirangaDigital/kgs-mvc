@@ -281,7 +281,7 @@
       <div class="col-md-3"><img data-original="<?=PUBLIC_URL?>images/gallery/main/002/0333.jpg" src="<?=PUBLIC_URL?>images/gallery/thumb/002/0333.jpg" alt="'ಪ್ರಬೋಧ ಶ್ಲೋಕಗಳು'-85 ಗ್ರಂಥದ ಲೋಕಾರ್ಪಣ  ಸಮಾರಂಭದಲ್ಲಿ ಸನ್ಮಾನ್ಯರಾದ ಶ್ರೀಯುತ ಬಿ. ಕೆ. ಕುಮಾರ್ ಅವರು ಮಾತನಾಡುತ್ತಿದ್ದಾರೆ;23-05-2017 ಮಂಗಳವಾರ" /></div>
       <div class="col-md-3"><img data-original="<?=PUBLIC_URL?>images/gallery/main/002/0334.jpg" src="<?=PUBLIC_URL?>images/gallery/thumb/002/0334.jpg" alt="'ಬ್ರಾಹ್ಮೀಸ್ಥಿತಿಗೆ 40 ಸೋಪಾನಗಳು'-83 ಕೃತಿಯ ಲೋಕಾರ್ಪಣ ಸಮಾರಂಭದಲ್ಲಿ ಡಾ।। ಶರ್ಮಾ ದಂಪತಿಗಳಿಗೆ ಯತಿಪುಂಗವರಿಂದ ಆಶೀರ್ವಾದ; 25-03-2017 ಶನಿವಾರ" /></div>
 
-      <div class="col-md-3"><img data-original="<?=PUBLIC_URL?>images/gallery/main/002/001.JPG" src="<?=PUBLIC_URL?>images/gallery/thumb/002/001.JPG" alt="image_1" /></div>
+      <div class="col-md-3"><img data-original="<?=PUBLIC_URL?>images/gallery/main/002/001.JPG" src="<?=PUBLIC_URL?>images/gallery/thumb/002/001.JPG" alt="image_1" height="170px;"/></div>
 
 
     </div>
