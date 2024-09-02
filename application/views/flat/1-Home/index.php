@@ -100,7 +100,7 @@
 <div class="container-fluid maale" id="samvastra">
     <div class="row">
         <div class="col-md-12">
-            <h1 class="text-center">ಸಂವತ್ಸರ ಮಾಲೆ</h1>
+            <h1 class="text-center">ಸಂವತ್ಸರ ಮಾಲೆ.</h1>
         </div>
     </div>
     <div class="row justify-content-md-center samvatsara ">
