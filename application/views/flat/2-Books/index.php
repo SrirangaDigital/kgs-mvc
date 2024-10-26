@@ -1656,7 +1656,36 @@
         </div>
       </a>
     </div>
-
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/150" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>150/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">150. ಅವಸ್ಥಾತ್ರಯಂ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/151" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>151/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">151. ಮಿನಿಟ್ಸ್ ಪ್ಲೀಸ್</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/152" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>152/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">152. ಧನ್ಯೋ ಗೃಹಸ್ಥಾಶ್ರಮಃ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
 
     <div class="col-md-3">
       <a href="<?=BASE_URL?>book/v/153" target="_blank">
@@ -1797,6 +1826,108 @@
           <img class="card-img-top" src="<?=DATA_URL?>166/cover.jpg" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">166. ಎರಡಕ್ಷರಗಳ ಮಹಿಮೆ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/167" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>167/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">167. ಮುಮುಕ್ಷುಗಳಿಗೆ ಶ್ರೀಶಂಕರರ ಕಿವಿಮಾತುಗಳು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/168" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>168/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">168. ಉಪನಿಷತ್ತುಗಳಲ್ಲಿ ದೃಷ್ಟಾಂತಗಳು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+     <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/169" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>169/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">169. ಉದ್ಧರೇದಾತ್ಮನಾತ್ಮಾನಮ್</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+     <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/170" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>170/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">170. ಐತದಾತ್ಮ್ಯಮಿದಂ ಸರ್ವಮ್</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+     <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/171" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>171/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">171. ಸುಭಾಷಿತ ದೃಷ್ಟಾಂತಗಳು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+     <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/172" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>172/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">172. ಕವಿಪುಂಗವ ಶಂಕರ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+     <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/173" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>173/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">173. ಸತ್ಯದ ಮಹಿಮೆ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/174" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>174/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">174. ತರತಿ ಶೋಕಮಾತೃವಿತ್</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/175" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>175/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">175. ಸರ್ವಂ ದ್ವಂದ್ವಾತ್ಮಕಂ ಜಗತ್</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/176" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>176/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">176. ಗೀತಾಚಾರ್ಯನ ವಾರ್ನಿಂಗ್ಸ್</h5>
           </div>
         </div>
       </a>
