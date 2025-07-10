@@ -1934,6 +1934,119 @@
     </div>
 
 
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/177" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>177/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">177. ಶಂಕರಧ್ವೈತ ದರ್ಶನಮ್</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/178" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>178/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">178. ಪಂಚ ರತ್ನಾನಿ ಭಾರತೇ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/179" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>179/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">179. ಸ್ವರಾಜ್ಯಂ ಮೋಕ್ಷಂ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/180" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>180/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">180. ಸಂಬಂಧವಾರ್ತಿಕದಲ್ಲಿ ದೃಷ್ಟಾಂತಗಳು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/181" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>181/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">181. ವೇದಾಂತದ ೧೦ ರಹಸ್ಯಗಳು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/182" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>182/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">182. ಶ್ರೀ ಶಂಕರರ ಒಗ್ಗರಣೆ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/183" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>183/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">183. ಕೋಟಿಗೊಬ್ಬ ಮುಮುಕ್ಷು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/184" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>184/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">184. ಬ್ರಹ್ಮಶಬ್ದದ ಸೌಭಾಗ್ಯ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/185" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>185/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">185. ಅಧ್ಯಾಸದ ದರ್ಬಾರ್</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/186" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>186/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">186. ಸಂಖ್ಯೆಗಳ ಮಹಿಮೆ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/187" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>187/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">187. ದೊಡ್ಡವರ ದೊಡ್ಡ ಮಾತುಗಳು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+
     
 
   </div>
