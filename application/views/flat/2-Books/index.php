@@ -2046,8 +2046,96 @@
       </a>
     </div>
 
-
-    
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/188" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>188/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">188. ಗೀರ್ವಾಣಭಾರತೀ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/189" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>189/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">189. ವಸ್ತುತಂತ್ರಜ್ಞಾನ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/190" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>190/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">190. ಗೀತಾಚಾರ್ಯನ ಗ್ಯಾರಂಟೀಸ್</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/191" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>191/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">191. ಜೀವನ್ಮುಕ್ತಿ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/192" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>192/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">192. ನಮಗಿಂದು ವೇದಾಂತ ಬೇಕೇ?</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/193" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>193/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">193.  ಉಪದೇಕ್ಷ್ಯಂತಿ ತೇ ಜ್ಞಾನಂ</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/194" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>194/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">194. ಶಂಕರ “ಕೈತುತ್ತು”ಗಳು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/195" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>195/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">195. ಪ್ರೇಯಸ್ಸು ಮತ್ತು ಶ್ರೇಯಸ್ಸು</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3">
+      <a href="<?=BASE_URL?>book/v/196" target="_blank">
+        <div class="card">
+          <img class="card-img-top" src="<?=DATA_URL?>196/cover.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">196.  “ಧನ್ಯರಾದೆವು” ನಾವು!</h5>
+          </div>
+        </div>
+      </a>
+    </div>
 
   </div>
 </div>
